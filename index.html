@@ -1,23 +1,65 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <meta name="generator" content="GitLab Pages">
-    <title>Plain HTML site using GitLab Pages</title>
-    <link rel="stylesheet" href="style.css">
-  </head>
-  <body>
-    <div class="navbar">
-      <a href="https://pages.gitlab.io/plain-html/">Plain HTML Example</a>
-      <a href="https://gitlab.com/pages/plain-html/">Repository</a>
-      <a href="https://gitlab.com/pages/">Other Examples</a>
-    </div>
+<head>
+  <meta charset="UTF-8">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <meta name="viewport" content="user-scalable=no">
+  <link rel="icon"           href="icon/icon.png"        type="image/png">
+  <link rel="apple-touch-icon" href="icon/icon.png">
+  <link rel="stylesheet"     href="fonts/gamefont.css">
+  <title>存在感薄い彼女との簡単生活ver0.79G</title>
+</head>
 
-    <h1>Hello World!</h1>
+<body style="background-color:#000">
+  <!-- RPG Maker MV → 运行核心 -->
+  <script src="js/libs/pixi.js"></script>
+  <script src="js/libs/pixi-tilemap.js"></script>
+  <script src="js/libs/pixi-picture.js"></script>
+  <script src="js/libs/fpsmeter.js"></script>
+  <script src="js/libs/lz-string.js"></script>
+  <script src="js/libs/iphone-inline-video.browser.js"></script>
 
-    <p>
-      This is a simple plain-HTML website on GitLab Pages, without any fancy static site generator.
-    </p>
-  </body>
-</html>
+  <script src="js/rpg_core.js"></script>
+  <script src="js/rpg_managers.js"></script>
+  <script src="js/rpg_objects.js"></script>
+  <script src="js/rpg_scenes.js"></script>
+  <script src="js/rpg_sprites.js"></script>
+  <script src="js/rpg_windows.js"></script>
+  <script src="js/plugins.js"></script>
+  <script src="js/main.js"></script>
+
+  <!-- ──────────────────────────────────────────────────────────
+       追加：安全退出 NW.js（解决多余任务栏图标 + 残留进程）
+  ────────────────────────────────────────────────────────── -->
+<script>
+document.addEventListener('DOMContentLoaded', () => {
+  if (!window.nw) return;                // 浏览器环境跳过
+
+  const win = nw.Window.get();
+
+  // === 统一获取所有窗口的一个小工具（兼容 NW1 / NW2） ===
+  function listAllWindows() {
+    try {
+      // NW2：同步返回数组
+      return nw.Window.getAll();
+    } catch (_) {
+      // NW1：要求回调 → 我们包装成同步 Promise
+      return [];
+    }
+  }
+
+  // 当主窗口收到 “关闭” 指令
+  win.on('close', function () {
+    // 1) 关闭其它游戏内可能打开的子窗口
+    listAllWindows().forEach(w => {
+      if (!w.isClosed && w !== win) w.close(true);   // true = 强制
+    });
+
+    // 2) 最后彻底退出（Browser‑Process / GPU‑Process / 辅助窗口）
+    nw.App.quit();
+  });
+});
+</script>
+
 
