@@ -1,0 +1,263 @@
+{
+    "1": {
+        "0": [
+            "Banquet impérial mandchou Han..."
+        ],
+        "1": [
+            "J'ai faim..."
+        ]
+    },
+    "5": {
+        "0": [
+            "Qu'est-ce qu'on prépare à manger aujourd'hui~"
+        ]
+    },
+    "10": {
+        "0": [
+            "C'est rare de prendre le petit-déjeuner avec Imouto, ",
+            "je ferais mieux de donner le meilleur de moi-même !"
+        ],
+        "1": [
+            "J'ai préparé un petit-déjeuner simple avec les restes d'ingrédients."
+        ],
+        "2": [
+            "\"Ooh—!? Ça brille—! Ça a l'air génial !\""
+        ],
+        "3": [
+            "Succès en cuisine ! \\w[30]",
+            "C'est tellement bon que toute mon énergie revient !"
+        ],
+        "4": [
+            "\"Je me sens super bien aujourd'hui, ça a vraiment l'air délicieux…\""
+        ],
+        "5": [
+            "J'ai terminé tranquillement mon petit-déjeuner et je me sens un peu plus énergique."
+        ],
+        "6": [
+            "Oh non ! \\w[30]",
+            "C'est un peu brûlé..."
+        ],
+        "7": [
+            "J'ai mangé un petit-déjeuner au goût bizarre,",
+            "et pour une raison ou une autre, je ne me sens pas du tout rassasié…"
+        ],
+        "8": [
+            "Aaaah———— \\w[30]",
+            "C'est complètement cramé !"
+        ],
+        "9": [
+            "Le petit-déjeuner s'est transformé en morceau de charbon,",
+            "je l'ai goûté et ça n'avait vraiment aucun goût…"
+        ],
+        "10": [
+            "Il est presque l'heure de partir…",
+            "J'ai laissé un mot à Imouto, donc ça devrait aller."
+        ]
+    },
+    "12": {
+        "0": [
+            "...J'ai l'impression d'avoir vu quelque chose de familier."
+        ],
+        "1": [
+            "Ugh... Je veux de la viande..."
+        ],
+        "2": [
+            "Qu'est-ce qu'on pourrait rajouter de bon ~"
+        ],
+        "3": [
+            "Et si on mangeait du poisson aujourd'hui !"
+        ],
+        "4": [
+            "Onii-chan !? C'est vraiment comestible !?"
+        ],
+        "5": [
+            "Pas de trucs épicés !"
+        ],
+        "6": [
+            "...Je déteste les légumes."
+        ],
+        "7": [
+            "Steak haché~ Steak haché~"
+        ],
+        "8": [
+            "C'est vraiment un truc qu'on peut manger ?"
+        ],
+        "9": [
+            "Un plat de viande aigre-douce... Ça a l'air pas mal aussi ?"
+        ]
+    },
+    "13": {
+        "0": [
+            "Échec... \\w[60]",
+            "Imouto et moi on s'est plus ou moins forcés à",
+            "manger la drôle de nourriture que j'ai préparée…"
+        ],
+        "1": [
+            "J'ai savouré un délicieux plat de viande avec Imouto."
+        ],
+        "2": [
+            "J'ai profité du dîner avec Imouto."
+        ],
+        "3": [
+            "Mais c'était tellement épicé qu'Imouto s'est mise à pleurer direct..."
+        ],
+        "4": [
+            "En plus, c'était tellement épicé qu'Imouto s'est mise à pleurer direct..."
+        ]
+    },
+    "17": {
+        "0": [
+            "\\nl< >\"Onii-chan… ",
+            "tu as bien lavé toute cette odeur sur toi ?",
+            "Ne reviens pas tout sale la prochaine fois.\""
+        ]
+    },
+    "18": {
+        "0": [
+            "\\nl< >\"Tiens, Onii-chan ! \\w[60]",
+            "Aaah————\""
+        ],
+        "1": [
+            "………Hein ? Déjà vu ?",
+            "Cette scène me semble vraiment familière…!"
+        ],
+        "2": [
+            "\"Je vais me nourrir moi-même————",
+            "\\w[60]\\^"
+        ],
+        "3": [
+            "\\nl< >\"Oh là là, Onii-chan !",
+            "tu es un patient blessé en ce moment, souviens-toi !"
+        ],
+        "4": [
+            "\"Ah, d'accord.\""
+        ],
+        "5": [
+            "Submergé par la détermination d'Imouto,",
+            "j'ai docilement mangé la chose inconnue qu'elle m'a donnée."
+        ],
+        "6": [
+            "\\{ \"Pff!?\""
+        ],
+        "7": [
+            "Ce choc familier a explosé dans ma bouche,",
+            "peut-être que je m'y suis habitué, je ne me suis pas évanoui cette fois."
+        ],
+        "8": [
+            "\\nl< >\"Alors, Onii-chan ? C'est bon ?\""
+        ],
+        "9": [
+            "\"Le goût, euh, c'est un peu————\""
+        ],
+        "10": [
+            "Une vague de chaleur a jailli soudainement de mon estomac !",
+            "Toute ma fatigue a été balayée !"
+        ],
+        "11": [
+            "\"...Hein ? En fait, ça fait plutôt du bien ?\""
+        ],
+        "12": [
+            "\\nl< >\"Ouais, on dirait que mon entraînement a porté ses fruits !\""
+        ],
+        "13": [
+            "Quel genre d'entraînement elle a bien pu faire ?",
+            "J'étais curieux, mais je n'ai pas osé demander..."
+        ]
+    },
+    "21": {
+        "0": [
+            "Je n'ai pas de recette à suivre pour l'instant...",
+            "Je devrais peut-être juste improviser quelque chose ?"
+        ],
+        "1": [
+            "Laisser Imouto cuisiner",
+            "Cuisiner moi-même"
+        ],
+        "2": [
+            "\\nl< >\"Désolée, Onii-chan... \\w[60]",
+            "Je suis encore en formation, laisse-moi faire la prochaine fois !\""
+        ],
+        "3": [
+            "...On dirait qu'Imouto fait vraiment de son mieux",
+            "pour apprendre à cuisiner.",
+            "Bon, eh bien, je vais préparer le dîner."
+        ]
+    },
+    "22": {
+        "0": [
+            "\\nl< >\\{\"Nnnnn……!\\w[250] On y va……! \\w[210]",
+            "Hmm hmm……!\" \\w[210]\\^"
+        ],
+        "1": [
+            "\\nl< >\"Haa…\\w[120] haa…\\w[180] Onii-chan…… \\w[60]",
+            "tu es vraiment lourd……!\""
+        ],
+        "2": [
+            "Avec toute sa détermination,",
+            "Imouto a traîné mon corps complètement mou jusqu'à la table…"
+        ],
+        "3": [
+            "\\nl< >\"Maintenant, attends un peu ici, Onii-chan.",
+            "Je reviens tout de suite.\""
+        ],
+        "4": [
+            "Un plat préparé par Imouto elle-même… comment dire,",
+            "je suis quand même un peu curieux...",
+            "Mais maintenant que j'y pense, elle a déjà cuisiné avant... ?"
+        ],
+        "5": [
+            "\\nl< >\"Tiens, Onii-chan ! \\w[60]",
+            "Aaah————\""
+        ],
+        "6": [
+            "En fixant cet objet non identifié devant moi,",
+            "tout mon corps s'est mis à trembler sans contrôle."
+        ],
+        "7": [
+            "\"Euh, ma chère Imouto... \\w[60]",
+            "Onii-chan a encore assez de force pour se nourrir tu sais ? \\w[150]",
+            "Si tu pouvais juste enlever ces bandages...\" \\w[20]\\^"
+        ],
+        "8": [
+            "\\nl< >\"Pas question !",
+            "Tu es blessé en ce moment, Onii-chan,",
+            "tu dois bien te reposer !\""
+        ],
+        "9": [
+            "\\nl< >\"Ou alors... ",
+            "ma première tentative de cuisine est vraiment pas terrible...? \\w[120]",
+            "Dans ce cas, laisse-moi goûter d'abord...\""
+        ],
+        "10": [
+            "\\{ \"Laisse-moi essayer ! S'il te plaît !\""
+        ],
+        "11": [
+            "Avant qu'Imouto ne puisse réagir,",
+            "je me suis rapidement penché en avant et",
+            "ai croqué la cuillère qu'elle me tendait."
+        ],
+        "12": [
+            "\"Mm... miam miam miam — \\w[60]",
+            "c'est un peu... \\w[30]\\^"
+        ],
+        "13": [
+            "\\{ \"Pff!?\""
+        ],
+        "14": [
+            "\\nl< >\"Onii-chan!? Qu'est-ce qui va pas ?!\""
+        ],
+        "15": [
+            "C'était comme boire un soda très gazeux,",
+            "la texture étrange a explosé dans ma bouche en un instant,",
+            "et avant même de réaliser, je me suis évanoui…"
+        ],
+        "16": [
+            "\\nl< >\\{\"Onii-chaaan—!\"",
+            "\\w[60]\\^"
+        ],
+        "17": [
+            "Ahh... un plat fait de la main d'Imouto...",
+            "dommage que je n'aie pas pu finir..."
+        ]
+    }
+}

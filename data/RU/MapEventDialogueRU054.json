@@ -1,0 +1,380 @@
+{
+  "3": {
+    "0": [
+      "…Сестра, похоже все еще крепко спит.. ",
+      "Что мне сделать?"
+    ],
+    "1": [
+      "Разбудить её",
+      "Погладить её по голове",
+      "Оставить её в покое"
+    ],
+    "2": [
+      "Эликсир Рубрум, похоже, улучшил ",
+      "состояние моей сестры, но я не мог не ",
+      "беспокоиться что эффект может быть лишь временным."
+    ],
+    "3": [
+      "Я нежно погладил Сестру по щеке. Может быть, ",
+      "было немного щекотно, она сразу же сделала такое лицо, ",
+      "как будто изо всех сил старалась вытерпеть."
+    ],
+    "4": [
+      "\\nl< >\"Ммм... хмм…\""
+    ],
+    "5": [
+      "\"Уже утро. Думаешь, сможешь встать?\""
+    ],
+    "6": [
+      "Из-за своего состояния, Сестры всегда испытывает  ",
+      "трудности с пробуждением по утрам,",
+      "может быть, мне не стоит заставлять ее вставать...?"
+    ],
+    "7": [
+      "Попробовать ещё раз",
+      "Оставить её в покое"
+    ],
+    "8": [
+      "\\nl< >\"Мняя…\"",
+      "\\nl< >\"—Братиик…\"",
+      "\\nl< >\"Ммм… ммхм…\""
+    ],
+    "9": [
+      "Она что-то пробормотала и продолжила спать.",
+      "Такие вещи нельзя торопить. ",
+      "Лучше дать ей поспать еще немного…"
+    ],
+    "10": [
+      "Я нежно погладил ее по голове."
+    ],
+    "11": [
+      "…Думаю, пора начинать готовить завтрак."
+    ]
+  },
+  "4": {
+    "0": [
+      "\"Как ты себя чувствуешь? ",
+      "Ты ведь не слишком себя напрягаешь, правда?\""
+    ],
+    "1": [
+      "\\nl< >\"Мняя… \\w[180]Я в порядке уииииии——\"\\w[30]\\^"
+    ],
+    "2": [
+      "\"Осторожно!\\w[45] Серьезно,\\w[45]",
+      "ты всё еще на половину спишь, или это не так?\""
+    ],
+    "3": [
+      "\"Эй~ ещё не полностью проснулась?",
+      "Тогда братику придется взяться за дело всерьез~!\""
+    ],
+    "4": [
+      "\\nl< >\"Мммммм…\""
+    ],
+    "5": [
+      "\"Вот так———\""
+    ],
+    "6": [
+      "\"Взбодрилась?\""
+    ],
+    "7": [
+      "\\nl< >\"Уэх… почему здесь так много Братиков…\""
+    ],
+    "8": [
+      "\"Если все еще чувствуешь себя неважно, ",
+      "попробуй умыться сначала.\""
+    ],
+    "9": [
+      "\\nl< >\"Просто донеси меня… Братик…\""
+    ],
+    "10": [
+      "Ой, наверное мой пранк зашел слишком далеко…",
+      "Сестра все еще выглядит сонной ."
+    ],
+    "11": [
+      "\"Круть круть круть круть круть круть круть~!\""
+    ],
+    "12": [
+      "\\nl< >\"Круть круть круть круть круть круть круть~!\""
+    ],
+    "13": [
+      "\\nl< >\"Уээхх~~~~\"  \\w[120]"
+    ],
+    "14": [
+      "Всё ещё сонная, Сестра плюхнулась обратно на кровать...",
+      "А? Наверное мой пранк зашел слишком далеко?"
+    ],
+    "15": [
+      "Видя что у нее не было сил даже",
+      "встать, у меня не осталось выбора",
+      "кроме как перестать пытаться."
+    ],
+    "16": [
+      "\"…Думаю, пора начинать готовить завтрак.\""
+    ]
+  },
+  "6": {
+    "0": [
+      "So spicy... it hurts..."
+    ],
+    "1": [
+      "\\nl< >\"Uuuu... my mouth is so spicy... ",
+      "it hurts... uuuu...\""
+    ],
+    "2": [
+      "Imouto was lying on the bed, ",
+      "suffering from the spiciness,",
+      "I need to quickly do something for her..."
+    ],
+    "3": [
+      "Pat her head",
+      "Pat her butt",
+      "Prepare a drink"
+    ],
+    "4": [
+      "I gently patted Imouto’s head,",
+      "wondering if this would make her feel any better..."
+    ],
+    "5": [
+      "\\nl< >\"Uuuu... now my head feels like it hurts too...\""
+    ],
+    "6": [
+      "\\nl< >\"Ue e e...\""
+    ],
+    "7": [
+      "Doesn’t seem to have any effect..."
+    ],
+    "8": [
+      "I gently patted Imouto’s butt,",
+      "wondering if this would make her feel any better..."
+    ],
+    "9": [
+      "\\nl< >\"Uuuu... Onii-chan...\""
+    ],
+    "10": [
+      "\\nl< >\"Uee... now my butt hurts too...\""
+    ],
+    "11": [
+      "I hurriedly searched around and finally ",
+      "found a bottle of \\ii[\\v[85]]!"
+    ],
+    "12": [
+      "\"Here’s \\ii[\\v[85]], ",
+      "do you want to drink it...?\""
+    ],
+    "13": [
+      "\\nl< >\\{  \"I want it!!\""
+    ],
+    "14": [
+      "Imouto gulped down \\ii[\\v[85]] in one go..."
+    ],
+    "15": [
+      "I hurriedly searched around, but it seemed ",
+      "there weren’t any drinks left at home...",
+      "With no choice, I prepared a glass of water for her."
+    ],
+    "16": [
+      "Imouto gulped down the glass of water in one go..."
+    ],
+    "17": [
+      "\\nl< >\"Uuuu... my mouth still hurts...\""
+    ],
+    "18": [
+      "\\nl< >\"Finally feeling a bit better... ",
+      "but my tongue is still numb.\""
+    ],
+    "19": [
+      "\\nl< >\"Chili peppers really are the enemy...\""
+    ],
+    "20": [
+      "Looking at her slightly swollen lips, ",
+      "I started having some strange thoughts——"
+    ],
+    "21": [
+      "Oral check"
+    ],
+    "22": [
+      "\\nl< >\"Ehh... no, that’s kinda embarrassing...",
+      "Onii-chan will smell something weird!\""
+    ],
+    "23": [
+      "Imouto refused the oral check. ",
+      "Maybe my request really was too weird..."
+    ],
+    "24": [
+      "Anyway, I’m glad she’s feeling better,",
+      "I need to be careful not to make food ",
+      "too spicy next time..."
+    ],
+    "25": [
+      "\"It’s fine! I’m just worried about you!?",
+      "It’s just a normal check!\""
+    ],
+    "26": [
+      "\\nl< >\"A c-check, huh?\""
+    ],
+    "27": [
+      "Under my intense gaze, Imouto blushed even deeper,",
+      "but her eyes were filled with gentleness and curiosity,",
+      "and a faint hint of anticipation appeared ",
+      "on her rosy cheeks."
+    ],
+    "28": [
+      "\"Yeah, it’d be bad if blisters formed in your mouth!\""
+    ],
+    "29": [
+      "\\nl< >\"I get it... then...",
+      "you can only look, okay? Don’t do anything weird...\""
+    ],
+    "30": [
+      "\\nl< >\"Ah, ahh———\""
+    ],
+    "31": [
+      "Imouto didn’t resist anymore, ",
+      "obediently standing in front of me,",
+      "slowly tilting her head up and opening her small mouth,",
+      "her little tongue shyly sticking out."
+    ],
+    "32": [
+      "Maybe because she ate too much spicy food, her tongue ",
+      "looked especially bright red, trembling slightly, ",
+      "with saliva overflowing from the strong spiciness,",
+      "clear droplets trailing down her soft lips."
+    ],
+    "33": [
+      "She seemed both embarrassed and dazed,",
+      "her eyes misty with tears, I couldn’t tell ",
+      "if she was still in pain from the spiciness."
+    ],
+    "34": [
+      "\\nl< >\"O-Onii-chan——— are you done yet?\"",
+      "\\w[150]"
+    ],
+    "35": [
+      "Oral treatment!"
+    ],
+    "36": [
+      "Seeing such a soft and tempting sight, ",
+      "I swallowed unconsciously, a surge of uncontrollable ",
+      "desire welling up in my chest."
+    ],
+    "37": [
+      "\"Onii-chan will help you feel better, okay? ",
+      "It’ll stop hurting soon...\""
+    ],
+    "38": [
+      "\\nl< >\"—————Eh?\""
+    ],
+    "39": [
+      "Almost like trying to convince myself,",
+      "I leaned closer to Imouto’s face,",
+      "and stuck out my tongue to gently touch her soft, ",
+      "delicate little tongue, slowly and tenderly licking it."
+    ],
+    "40": [
+      "The moment our tongues touched, she flinched slightly.",
+      "She seemed shy and confused by my actions, ",
+      "but didn’t avoid or resist, still staring at me ",
+      "with those big watery eyes, full of curiosity."
+    ],
+    "41": [
+      "Tasting her tender tongue and the sweetness ",
+      "in her mouth, I completely forgot my original ",
+      "purpose, the sensation of her tongue and the ",
+      "warmth of her mouth weaving a powerful pleasure,",
+      "making my actions bolder and greedier as ",
+      "I sought more and deeper of her sweet breath."
+    ],
+    "42": [
+      "Her little tongue seemed to gradually adapt to ",
+      "my movements, even starting to respond slightly,",
+      "her gentle and shy cooperation hinting at ",
+      "a subtle sense of anticipation and attachment."
+    ],
+    "43": [
+      "\\nl< >\"Mmm... haa, Onii-chan...\""
+    ],
+    "44": [
+      "I didn’t know how long it lasted, ",
+      "but Imouto began to run out of breath,",
+      "her fingers lightly pressing against my chest ",
+      "as she let out muffled moans,",
+      "until her little face turned even redder from ",
+      "lack of oxygen, and only then did I reluctantly ",
+      "let go of her mouth."
+    ],
+    "45": [
+      "\\nl< >\"Haa... haa...\""
+    ],
+    "46": [
+      "\\nl< >\"Mmph, Onii-chan! ",
+      "You said it was just a check...!\""
+    ],
+    "47": [
+      "Even though her words carry a spoiled complaint,",
+      "her expression didn’t really look like she ",
+      "was scolding me, but more like she was being playful."
+    ],
+    "48": [
+      "\"Sorry, sorry, I’ll be careful next time...",
+      "but, doesn’t your tongue feel better now?\""
+    ],
+    "49": [
+      "\\nl< >\"Eh...? Mmm, yeah...\""
+    ],
+    "50": [
+      "\\nl< >\"No...! That’s not the point! ",
+      "\\w[160]\\^"
+    ],
+    "51": [
+      "\\nl< >\\{",
+      "You’re such an idiot, Onii-chan!\""
+    ],
+    "52": [
+      "Imouto ran away."
+    ],
+    "53": [
+      "I watch her shy and flustered figure as she runs off,",
+      "My tongue still tingling with the sweet and ",
+      "wet sensation from earlier,",
+      " ",
+      "a strong pleasure mixed with an indescribable sense ",
+      "of taboo swirling deep inside,",
+      "refusing to fade away..."
+    ]
+  },
+  "7": {
+    "0": [
+      "Хмм... Мне уже немного хочется есть. ",
+      "Пора готовить ужин."
+    ],
+    "1": [
+      "\"Эй, уже вечер. ",
+      "Пора вставать, соня. \""
+    ],
+    "2": [
+      "\\nl< >\"Ммнн—\\w[60]просто оставь меня поспать еще часок...\""
+    ],
+    "3": [
+      "Сестра все еще лениво лежит в постели, отказываясь двигаться.",
+      "Аэх, полагаю, ничего тут не поделаешь..."
+    ],
+    "4": [
+      "\"О, кстати, ",
+      "только пожаренный Гамбургский Стейк уже ждет тебя—\""
+    ],
+    "5": [
+      "\\nl< >\"Угх... Как же спать хочется—\""
+    ],
+    "6": [
+      "\\nl< >\"Но, где Гамбургский Стейк!? ",
+      "Где он!?\""
+    ],
+    "7": [
+      "\"Прости, это было что-то, ",
+      "о чем ты можешь только мечтать—\""
+    ],
+    "8": [
+      "\\nl< >\"Ээ... серьезно!? Это так грубо, Братиик!\""
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+    "imoutoAhoge": {
+        "0": [
+            "J'ai accidentellement retiré l'ahoge d'Imouto."
+        ],
+        "1": [
+            "Elle ne semblait rien remarquer d'inhabituel, ",
+            "et il a repoussé rapidement.",
+            "...Pourrait-il s’agir d’une sorte de ressource renouvelable ?"
+        ],
+        "2": [
+            "\\nl< >\"...Qu'est-ce qui ne va pas, Onii-chan ?",
+            "Tu as l'air vraiment sérieux.\""
+        ],
+        "3": [
+            "Comme cela semble compliqué, ",
+            "Je ferais mieux de ne pas trop y penser."
+        ],
+        "4": [
+            "Il vaut mieux ne plus y toucher..."
+        ],
+        "5": [
+            "\\nl< >\"...J'ai un peu de démangeaisons à la tête. \\w[30]",
+            "As-tu fait quelque chose, Onii-chan ?"
+        ],
+        "6": [
+            "« Je-je n’ai rien fait… Je le pense ! »"
+        ]
+    },
+    "cookingSystem": {
+        "0": [
+            "\\ii[\\v[\\v[85]]]est prêt. Que dois-je faire ?"
+        ],
+        "1": [
+            "Échangez-le",
+            "Supprime-le"
+        ],
+        "2": [
+            "Je suis toujours en train de choisir les ingrédients !!"
+        ]
+    },
+    "inventoryExpansion": {
+        "0": [
+            "Il semble que l'utilisation de \\ii[312]",
+            "peut augmenter la capacité du sac à dos..."
+        ],
+        "1": [
+            "Développer les emplacements d'armes",
+            "Développer les emplacements d'équipement",
+            "Pas grave"
+        ],
+        "2": [
+            "La quantité de \\ii[312]",
+            "semble insuffisant..."
+        ]
+    },
+    "loadingEasterEgg": {
+        "0": [
+            "\\nl< >\"Le steak de Hambourg est le plat le plus délicieux.\" \\w[180] \\^"
+        ],
+        "1": [
+            "\\nl< >\"Onii-chan ramènera sûrement ",
+            "une montagne de viande pour son Imouto...\" \\w[360] \\^"
+        ],
+        "2": [
+            "Ma sœur semble dire quelque chose..."
+        ],
+        "3": [
+            "\\nl< >\"Mais les poivrons verts sont l'ennemi. \\w[120]",
+            "Onii-chan, tu dois tous les manger… \\w[120]",
+            "Va vaincre l'ennemi vert~!\" \\w[120]\\^"
+        ],
+        "4": [
+            "\\nl< >\"Ah, tu es réveillé… \\w[60]",
+            "Onii-chan, as-tu bien dormi ?"
+        ],
+        "5": [
+            "\"Pas vraiment... Au fait, ",
+            "J'ai entendu des bruits étranges ",
+            "depuis un moment maintenant…\""
+        ],
+        "6": [
+            "\\nl< >\"Eh hehe, c'était mon \\w[60]",
+            "service de sommeil spécial pour toi, Onii-chan !"
+        ],
+        "7": [
+            "\\nl< >\"Ma sœur est si mignonne... \\w[120]",
+            "C'est ma fille préférée au monde... \\w[210]",
+            "Ma sœur est———— \\w[150]\\^"
+        ],
+        "8": [
+            "Ma sœur semble dire quelque chose..."
+        ],
+        "9": [
+            "\\nl< >\"Ah, onii-chan ! Bonsoir—!\""
+        ],
+        "10": [
+            "\\nl< >\"Euh... Avez-vous entendu tout ce que je viens de dire ?\""
+        ],
+        "11": [
+            "\\nl< >\"Onii-chan, ton visage endormi ",
+            "c'était tellement drôle tout à l'heure~\""
+        ],
+        "12": [
+            "\\nl< >\"C'est rare de te voir t'assoupir~\""
+        ]
+    },
+    "rubberDuck": {
+        "0": [
+            "Un canard en caoutchouc solitaire ",
+            "flotte sur l'eau..."
+        ],
+        "1": [
+            "Ramasse-le",
+            "Laisse-le tranquille"
+        ],
+        "2": [
+            "Quelqu'un a-t-il jeté ça ?",
+            "Ça a l’air un peu triste, hein…"
+        ],
+        "3": [
+            "À bien y penser…",
+            "Moi aussi, j'ai été emporté par le courant en amont..."
+        ],
+        "4": [
+            "Si je ramène ça à la maison...",
+            "Ma sœur serait-elle heureuse ?"
+        ],
+        "5": [
+            "Mais ça a l'air un peu sale,",
+            "alors peut-être que je devrais juste le laisser..."
+        ]
+    },
+    "drowning": {
+        "0": [
+            "Ahhh... c'était proche... ",
+            "J'ai glissé de la berge et j'ai failli me noyer !"
+        ]
+    },
+    "erohon": {
+        "0": [
+            "(Il y a encore des gens ou des monstres à proximité...",
+            "(il vaut mieux ne pas sortir ce livre.)"
+        ]
+    },
+    "ninja": {
+        "0": [
+            "Je n'arrive pas à croire qu'il existe une pièce secrète",
+            "artificielle dans un endroit comme celui-ci.",
+            "Qui aurait pu le construire…?"
+        ],
+        "1": [
+            "Ouah…!?",
+            "Il y a même une fille évanouie ici…"
+        ],
+        "2": [
+            "Maintenant que j’y pense, j’entends des grondements étranges…",
+            "Était-ce son estomac qui faisait ces bruits…?"
+        ],
+        "3": [
+            "Pouah…",
+            "Tellement faim…"
+        ],
+        "4": [
+            "…………",
+            "A-t-elle tellement faim qu’elle est à peine consciente…?"
+        ],
+        "5": [
+            "Il y a un feu de camp ici, parfait.",
+            "Je vais lui cuisiner quelque chose à manger !"
+        ],
+        "6": [
+            "Dois-je simplement utiliser \\ii[\\v[90]]     ",
+            "et préparer quelque chose de simple ?"
+        ],
+        "7": [
+            "Faisons-le!",
+            "…Pas grave."
+        ],
+        "8": [
+            "Hmm… Je devrais peut-être échanger",
+            "de meilleurs ingrédients…"
+        ],
+        "9": [
+            "Hé~ Je t'ai préparé de la nourriture chaude !",
+            "Penses-tu que tu peux manger ?"
+        ],
+        "10": [
+            "Renifle, renifle… renifle, renifle…",
+            "Cette odeur… est-ce de la nourriture ?"
+        ],
+        "11": [
+            "L'odeur de la nourriture !!"
+        ],
+        "12": [
+            "\\{Très bien, je creuse !!"
+        ],
+        "13": [
+            "Toi… toi le petit…",
+            "Je l'ai fait, tu sais..."
+        ],
+        "14": [
+            "(Elle l'a fini en quelques bouchées...",
+            "Elle devait vraiment mourir de faim…)"
+        ],
+        "15": [
+            "Mange, mange… Tu m’as totalement sauvé !",
+            "Je n’ai pas mangé depuis des jours… ronger, ronger…"
+        ],
+        "16": [
+            "Je pensais que j'allais me transformer en un fantôme affamé",
+            "hante ce donjon… Grrrr…"
+        ],
+        "17": [
+            "Hé… mange juste un peu plus lentement… Au fait,",
+            "pourquoi es-tu seul ici dans un endroit comme celui-ci ?"
+        ],
+        "18": [
+            "Ah ! Alors… !",
+            "Je travaillais sérieusement sur ma mission, ok !"
+        ],
+        "19": [
+            "Je voulais chercher le trésor caché dans cette zone,",
+            "alors j'ai creusé une pièce secrète dans un endroit isolé !"
+        ],
+        "20": [
+            "Mais alors… morpion morpion.",
+            "Après être entré, l'entrée a été bloquée par une pierre tombale !"
+        ],
+        "21": [
+            "Ugh, je ne m'attendais vraiment pas à ça,",
+            "alors mes rations se sont épuisées très vite… et puis…"
+        ],
+        "22": [
+            "Un ninja qui se retrouve dans un tel pétrin…",
+            "Je ne peux pas faire face à l’organisation maintenant…"
+        ],
+        "23": [
+            "Hein… hein ? Mais pourquoi as-tu même",
+            "creuser une pièce secrète en premier lieu…"
+        ],
+        "24": [
+            "Parce que ce trésor n'apparaît pas toujours,",
+            "alors il fallait que je sois prête pour un long séjour… boum boum."
+        ],
+        "25": [
+            "De plus, je ne peux pas laisser quelqu'un d'autre le savoir,",
+            "c'est une mission super secrète directement du boss !"
+        ],
+        "26": [
+            "Si quelqu’un d’autre le découvre…",
+            "Que pensez-vous qu'il va se passer..."
+        ],
+        "27": [
+            "Bien sûr, je devrais m’en occuper discrètement…",
+            "sinon, je serais un ninja raté… boum boum."
+        ],
+        "28": [
+            "…Attends, quoi ?!",
+            "Je viens de divulguer des informations !"
+        ],
+        "29": [
+            "Euh… je promets que je ne dirai rien…",
+            "alors, euh…"
+        ],
+        "30": [
+            "…Hein!?"
+        ],
+        "31": [
+            "Je n’arrive pas à croire que j’ai encore fait une telle erreur…",
+            "Ugh… même si tu m’avais sauvé…"
+        ],
+        "32": [
+            "A-attends une seconde !",
+            "Tu vas me tuer juste pour ça !?"
+        ],
+        "33": [
+            "C'est ça être un ninja...",
+            "Il faut se battre pour survivre…"
+        ],
+        "34": [
+            "Je veux dire, je ne veux pas vraiment te faire de mal non plus.",
+            "mais je te dois encore un repas…"
+        ],
+        "35": [
+            "Si c'est comme ça...",
+            "\\^"
+        ],
+        "36": [
+            "Alors il n’y a qu’une seule réponse :",
+            "Toi aussi, tu dois devenir un ninja !"
+        ],
+        "37": [
+            "Si vous rejoignez notre groupe,",
+            "il n'y a aucune raison pour que nous nous battions les uns contre les autres !"
+        ],
+        "38": [
+            "A-attends une seconde !",
+            "Je n'ai pas vraiment le choix ici, n'est-ce pas !?"
+        ],
+        "39": [
+            "C'est bien,",
+            "Je serai doux…"
+        ],
+        "40": [
+            "…Wah!?",
+            "Reste loin de moi !!"
+        ],
+        "41": [
+            "Tu as vraiment un don pour ce genre de trucs de ninja…!",
+            "Vous avez tout appris avec juste un peu de pratique !"
+        ],
+        "42": [
+            "Maintenant,",
+            "tu es l'un des nôtres aussi !"
+        ],
+        "43": [
+            "Mais je devrai attendre que ma mission soit terminée.",
+            "avant que je puisse te présenter au patron !"
+        ],
+        "44": [
+            "À ce point,",
+            "plus rien n’a vraiment d’importance…"
+        ]
+    }
+}

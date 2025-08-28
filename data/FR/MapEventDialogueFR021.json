@@ -1,0 +1,116 @@
+{
+    "1": {
+        "0": [
+            "Mmm, j'arrive pas à dormir..."
+        ],
+        "1": [
+            "J'ai mal au ventre... C'est une indigestion ?",
+            "Peut-être que le dîner était vraiment trop lourd..."
+        ],
+        "2": [
+            "Ah, je me suis réveillé d'un coup...!"
+        ],
+        "3": [
+            "Il fait encore nuit.",
+            "Je peux dormir un peu plus...\\w[30].\\w[30].\\w[30].",
+            "Je vais aller voir ma sœur ?"
+        ],
+        "4": [
+            "Vers la chambre d'Imouto",
+            "Aller dormir"
+        ],
+        "5": [
+            "Je vais juste dormir jusqu'au matin...?"
+        ],
+        "6": [
+            "Dormir",
+            "Attendre"
+        ],
+        "7": [
+            "\"Ahhhhhhhhhhh—!!?\""
+        ],
+        "8": [
+            "Q-Quoi ? Oh, c'était juste un cauchemar..."
+        ],
+        "9": [
+            "Ça m'a fait trop peur...",
+            "Je crois que j'ai vu une version super effrayante d'Imouto."
+        ],
+        "10": [
+            "…Je devrais aller vérifier Imouto.",
+            "Et si ce rêve—"
+        ],
+        "11": [
+            "Ouais, ce rêve était trop flippant...",
+            "Autant aller me coucher tôt..."
+        ]
+    },
+    "2": {
+        "0": [
+            "\\c[10]—Demande de mise à jour détectée depuis la version \\str[1]. \\w[60]",
+            "Voulez-vous lancer la mise à jour automatique maintenant ?"
+        ],
+        "1": [
+            "Lancer la mise à jour",
+            "Laisser tomber"
+        ],
+        "2": [
+            "...Il fait déjà jour ?",
+            "J'ai l'impression d'avoir rêvé de ma petite sœur,",
+            "mais je me souviens plus du tout..."
+        ],
+        "3": [
+            "...C'est déjà le matin ?",
+            "J'ai pas l'impression d'avoir bien dormi..."
+        ],
+        "4": [
+            "Ah, c'est déjà le matin ? J'ai trop bien dormi."
+        ],
+        "5": [
+            "Il fait beau aujourd'hui...\\w[45]hein ?",
+            "La lumière du soleil est super forte aujourd'hui ?"
+        ],
+        "6": [
+            "Il fait beau aujourd'hui."
+        ],
+        "7": [
+            "Le temps a pas l'air top aujourd'hui."
+        ],
+        "8": [
+            "Il pleut ?",
+            "J'espère que ça va pas gâcher l'aventure..."
+        ],
+        "9": [
+            "Ça fait quelques jours que j'ai pas vu ma sœur...",
+            "Faudrait peut-être que j'aille la voir aujourd'hui."
+        ],
+        "10": [
+            "Allez, debout. Qu'est-ce qu'on fait aujourd'hui—"
+        ],
+        "11": [
+            "Vers la chambre d'Imouto",
+            "Sortir tout de suite"
+        ],
+        "12": [
+            "OK, allons voir Imouto !"
+        ],
+        "13": [
+            "Bon, il est temps de tout préparer",
+            "et de partir pour l'aventure !"
+        ]
+    },
+    "4": {
+        "0": [
+            "\"...Hein !?\\w[60]...Attends, \\w[60]",
+            "c'est déjà le matin...?\""
+        ],
+        "1": [
+            "J'ai la tête qui tourne...",
+            "Je me suis endormi comme ça hier soir...?"
+        ],
+        "2": [
+            "\"Je me souviens plus de ce qui s'est passé la nuit dernière... \\w[90]",
+            "Bon, j'étais sûrement juste trop crevé.\""
+        ]
+    }
+}

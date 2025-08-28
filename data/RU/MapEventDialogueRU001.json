@@ -1,0 +1,198 @@
+{
+  "7": {
+    "1": [
+      "Found a bonfire...",
+      "now what should I do?"
+    ],
+    "2": [
+      "Take a rest",
+      "Do nothing"
+    ],
+    "objectName": [
+      "Bonfire"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      ""
+    ]
+  },
+  "8": {
+    "1": [
+      "",
+      ""
+    ],
+    "2": [
+      "",
+      ""
+    ],
+    "objectName": [
+      "\\c[116]A↗SA↘BA↗"
+    ],
+    "sentouryoku": [
+      "2333"
+    ],
+    "description": [
+      "A strange creature that loves eating strawberries",
+      "It has tough skin and absurd defense, but since ",
+      "it’s so focused on strawberries,  ",
+      "it lacks much urge to attack. Because of that,",
+      "passing adventurers often end up feeding it…"
+    ]
+  },
+  "24": {
+    "1": [
+      "……Usa?",
+      "Why are you so ugly usa…?"
+    ],
+    "2": [
+      "Usa…… I smell…",
+      "you have the scent of carrots, usa…"
+    ],
+    "objectName": [
+      "\\c[114]Maid Bunny"
+    ],
+    "sentouryoku": [
+      "?77"
+    ],
+    "description": [
+      "A strange girl always dressed as a maid with rabbit ears.",
+      "Possesses the ability to teleport, ",
+      "appearing from all sorts of strange holes.",
+      "Frequently teases adventurers but is mostly harmless."
+    ]
+  },
+  "32": {
+    "1": [
+      "Still in the river!"
+    ],
+    "2": [
+      "I found a weird gacha machine...",
+      "Its expression looks like Imouto's..."
+    ],
+    "3": [
+      "Try inserting money",
+      "Try feeding it"
+    ],
+    "4": [
+      "But I don’t have enough money to feed it…"
+    ],
+    "5": [
+      "Should I really feed it ",
+      "\\ii[\\v[90]]…?"
+    ],
+    "6": [
+      "Yeah",
+      "Nope"
+    ],
+    "objectName": [
+      "Mysterious Gacha"
+    ],
+    "sentouryoku": [
+      "9"
+    ],
+    "description": [
+      "A gacha machine summoned by a Tarot card.",
+      "It eats up whatever adventurers offer it.",
+      "When satisfied, it happily spins and ",
+      "finally spits out a reward-filled capsule.",
+      "But be careful not to overfeed it—though it's",
+      "a machine, it seems to get food poisoning..."
+    ]
+  },
+  "72": {
+    "objectName": [
+      "\\c[115]Fallen Mage’s Severed Hand"
+    ],
+    "sentouryoku": [
+      "480"
+    ],
+    "description": [
+      "The severed limb of a dead mage.",
+      "No one knows what its original owner went through,",
+      "But infused with necromancy, this hand stays active.",
+      "Adventurers often see it make obvious gestures ",
+      "when attacking."
+    ]
+  },
+  "102": {
+    "1": [
+      "Нашёл мусорный бак...",
+      "Что с ним делать?"
+    ],
+    "2": [
+      "Обыскать",
+      "Выбросить Оружие",
+      "Выбросить Снаряжение"
+    ],
+    "3": [
+      "Просто вещи ",
+      "Я их выбросил..."
+    ],
+    "4": [
+      "(Эгх... Мой рюкзак полностью заполнен...",
+      "Мне придется выкинуть всё сразу...)"
+    ],
+    "5": [
+      "Выкинуть всё нахуй!",
+      "Подумать еще немного..."
+    ],
+    "6": [
+      "...Мне действительно стоит их выбросить?",
+      "\\str[8]"
+    ],
+    "7": [
+      "\\fr${itemIcon}\\fr и ${itemLength} оборудования всего."
+    ],
+    "objectName": [
+      "Мусорный бак"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "Даже в смертельно опасной Бездне, мусорить нехорошо",
+      "Однако, что бы вы ни бросили, на следующий день оно исчезнет...",
+      "Похоже, кто-то убирается.",
+      "Но будьте осторожны — не бросайте туда легковоспламеняющиеся вещества.",
+      "Обращайтесь с ним слишком неосторожно,",
+      "и вы можете спровоцировать что-то очень неприятное."
+    ]
+  },
+  "110": {
+    "objectName": [
+      "Пугало"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "\"Я просто пугало.",
+      "Поскольку у меня нет сердца, ",
+      "Я не чувствую боли.\""
+    ]
+  },
+  "119": {
+    "objectName": [
+      "\\c[10]Death Devil"
+    ],
+    "garble": [
+      "true"
+    ],
+    "sentouryoku": [
+      "???"
+    ],
+    "description": [
+      "A mere shadow of the ",
+      "Death Devil's will—",
+      "no mortal survives its price.",
+      "Even this echo brings death ",
+      "to all it sees,",
+      "summoner included. "
+    ]
+  },
+  "possibleDrops": [
+    "Possible Drops"
+  ]
+}

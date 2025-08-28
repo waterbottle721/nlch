@@ -1,0 +1,847 @@
+{
+    "AndroidBeginnersGuide": {
+        "0": [
+            "Touchez Imouto pour vérifier son statut",
+            "Maintenez Imouto appuyée pour interagir avec elle"
+        ],
+        "1": [
+            "Appuyez longuement sur l'arrière-plan pour faire venir Imouto vers vous"
+        ],
+        "2": [
+            "Faites glisser votre doigt sur Imouto pour lancer une interaction intime"
+        ],
+        "3": [
+            "Appuyez sur le bouton Retour ou",
+            "touchez deux fois pour quitter"
+        ],
+        "4": [
+            "Les fichiers de sauvegarde du jeu seront stockés dans \\TC[#fff94e]Documents/sister_save\\TC[#ffffff] ",
+            "sur votre appareil. Vous pouvez les sauvegarder ou les remplacer ",
+            "par de nouveaux fichiers de sauvegarde ! Les sauvegardes d'autres appareils sont aussi supportées. ",
+            "Les sauvegardes PC et Android sont entièrement compatibles !"
+        ],
+        "5": [
+            "Remarque : vous ne pouvez écraser que les fichiers de sauvegarde existants !",
+            "Si vous transférez un nouveau fichier de sauvegarde sans fichier correspondant,",
+            "le jeu ne le reconnaîtra pas !"
+        ]
+    },
+    "exitGame": {
+        "0": [
+            "Voulez-vous revenir à l'écran titre du jeu ?",
+            "Toutes les données non sauvegardées seront perdues."
+        ],
+        "1": [
+            "Oui",
+            "Non"
+        ]
+    },
+    "2": {
+        "0": [
+            "Je m'ennuie un peu... On fait quoi pour s'amuser ?"
+        ],
+        "1": [
+            "\\{\\nl< >\"Jouons à quelques jeux !\"\\w[30]"
+        ]
+    },
+    "4": {
+        "0": [
+            "\\nl< >\"Grrrr...! \\w[45]",
+            "Tu l'as fait exprès, pas vrai ? \\w[150]\\^"
+        ],
+        "1": [
+            "\\nl< >\"—Uwehhhhh!?\" \\w[20]\\^"
+        ],
+        "2": [
+            "\\nl< >\"Onii-chan~~!!\" \\w[120]\\^"
+        ]
+    },
+    "5": {
+        "0": [
+            "\\nl< >\"Ouah, onii-chan...",
+            "c'est pas un bouton sur lequel il faut appuyer !\" \\w[240]\\^"
+        ],
+        "1": [
+            "\\nl< >\"Grrrr...! \\w[45]",
+            "Tu l'as fait exprès, pas vrai ? \\w[150]\\^"
+        ],
+        "2": [
+            "\\nl< >\"Pas maintenant...! \\w[60]",
+            "Quand Onii-chan me touche comme ça, ",
+            "ça me fait un drôle d'effet...\" \\w[400]\\^"
+        ],
+        "3": [
+            "\\nl< >\"Hein !? La serviette...!\" \\w[60]\\^"
+        ],
+        "4": [
+            "\\nl< >\"Mmm... Onii-chan, tu me taquines encore...\" \\w[120]\\^"
+        ],
+        "5": [
+            "\\nl< >\"Ah !?\\w[30]Onii-chan, où est-ce que tu touches !\" \\w[120]\\^"
+        ],
+        "6": [
+            "\\nl< >\"Mou~ tu l'as vraiment fait exprès,",
+            "pas vrai, Onii-chan ?!\" \\w[120]\\^"
+        ],
+        "7": [
+            "\\nl< >\"Ahh... \\w[45]\\^"
+        ],
+        "8": [
+            "\\nl< >\"Ah, Onii-chan ! N'approche pas !\" \\w[300]\\^"
+        ],
+        "9": [
+            "\\nl< >\"Ughhh... Rends-moi ma serviette...\" \\w[90]\\^"
+        ],
+        "10": [
+            "\\nl< >\"Onii-chan me taquine encore...\" \\w[120]\\^"
+        ],
+        "11": [
+            "\\nl< >\"Onii-chan...\\w[90]C'est vraiment bizarre...\" \\w[60]\\^"
+        ],
+        "12": [
+            "\\nl< >\"Hah...\\w[60]Onii-chan... \\w[60]",
+            "Tu es content, là ?\" \\w[60]\\^"
+        ],
+        "13": [
+            "\\nl< >\"Ça chatouille~\" \\w[90]\\^"
+        ],
+        "14": [
+            "\\nl< >\"Ahaha, Onii-chan,\\w[60]ça chatouille vraiment~\" \\w[120]\\^"
+        ],
+        "15": [
+            "\\nl< >\"Hmmmm…!\" \\w[45]\\^"
+        ],
+        "16": [
+            "\\nl< >\"Onii-chan…… \\w[150]",
+            "C'était un accident...? Bon, d'accord, j'ai compris...\" \\w[210]\\^"
+        ],
+        "17": [
+            "\\nl< >\"N-Ne te moque pas de moi comme ça… \\w[150]",
+            "Ça fait bizarre...!\" \\w[150]\\^"
+        ],
+        "18": [
+            "\\nl< >\"Euh… Est-ce que j'ai pris du poids...?\" \\w[180]\\^"
+        ],
+        "19": [
+            "\\nl< >\"Nnngh…! Ça me chatouille quand tu touches mes oreilles. \\w[180]",
+            "Onii-chan, arrête tout de suite ! \\w[210]\\^"
+        ],
+        "20": [
+            "\\nl< >\"Euh... Onii-chan, ",
+            "ça chatouille vraiment quand tu touches là, \\w[180]",
+            "peut-être que tu devrais arrêter...\" \\w[210]\\^"
+        ],
+        "21": [
+            "\\nl< >\"Oh là, ne me pousse pas dans tous les sens !\" \\w[240]",
+            "\\nl< >\"Je ne suis pas ton jouet, tu sais !\" \\w[120]\\^"
+        ],
+        "22": [
+            "\\nl< >\"Uweh-eh-eh... Onii-chan, \\w[150]",
+            "tu y vas un peu fort, là...!?\" \\w[180]\\^"
+        ]
+    },
+    "7": {
+        "0": [
+            "Imouto a l'air de dormir si paisiblement..."
+        ],
+        "1": [
+            "S'approcher discrètement",
+            "Entraînement !",
+            "Retour"
+        ],
+        "2": [
+            "C'est enfin le moment de montrer ",
+            "la technique de déplacement silencieux ",
+            "que j'ai répétée depuis des jours—"
+        ],
+        "3": [
+            "Discrètement, discrètement..."
+        ],
+        "4": [
+            "Ouais, il est déjà tard, ",
+            "je devrais rentrer me reposer—"
+        ],
+        "5": [
+            "Aller dormir",
+            "Attendre"
+        ],
+        "6": [
+            "Je vais peut-être rester encore un peu..."
+        ],
+        "7": [
+            "De toute façon, j'arrive pas vraiment à dormir... \\w[30]",
+            "\\{C'est l'heure d'un petit entraînement !"
+        ],
+        "8": [
+            "\\{Pour éviter de réveiller Imouto, ",
+            "je dois contrôler chaque mouvement",
+            "avec une précision parfaite !",
+            "C'est l'environnement d'entraînement idéal !"
+        ],
+        "9": [
+            "Huff—! Huff—! Huff—!",
+            "Huff—! Huff—! Huff—!"
+        ],
+        "10": [
+            "Totalement concentré, j'ai enchaîné plusieurs séries de ",
+            "pompes juste à côté d'Imouto endormie."
+        ],
+        "11": [
+            "Totalement concentré, j'ai enchaîné plusieurs séries de ",
+            "squats juste à côté d'Imouto endormie."
+        ],
+        "12": [
+            "Après une séance d'entraînement intense et satisfaisante,",
+            "je sens mes muscles devenir plus forts…"
+        ],
+        "13": [
+            "\\nl< >\"Mmm… hmm hmm…\""
+        ],
+        "14": [
+            "Oh-oh, on dirait qu'elle est sur le point de se réveiller",
+            "Vaut mieux pas rester plus longtemps...",
+            "Il est temps de rentrer."
+        ],
+        "15": [
+            "Hein ? ",
+            "Pourquoi Imouto a-t-elle l'air un peu différente que d'habitude ?"
+        ],
+        "16": [
+            "\"...Imouto ?\""
+        ],
+        "17": [
+            "C'est juste Imouto comme d'habitude.",
+            "Je suppose que c'était vraiment juste un rêve..."
+        ]
+    },
+    "15": {
+        "0": [
+            "Je m'ennuie un peu... On fait quoi pour s'amuser ?"
+        ],
+        "1": [
+            "\\{\\nl< >\"Jouons à quelques jeux !\"\\w[30]"
+        ],
+        "2": [
+            "...Je n'ai pas pris de bain il n'y a pas longtemps ?"
+        ],
+        "3": [
+            "Mmm... Je suppose que c'est l'heure du bain."
+        ],
+        "4": [
+            "Inviter Imouto",
+            "Y aller seul"
+        ],
+        "5": [
+            "C'est une occasion rare, ",
+            "je devrais peut-être essayer d'inviter ",
+            "Imouto à prendre un bain ensemble..."
+        ],
+        "6": [
+            "\\nl< >\"Tu vas prendre un bain maintenant, ",
+            "Onii-chan ? À plus tard alors~\""
+        ],
+        "7": [
+            "\\nl< >\"Ha... ha——— \\w[180]\\^\""
+        ],
+        "8": [
+            "\\nl< >ah, onii-chan...\""
+        ],
+        "9": [
+            "\\nl< >\"Tellement sommeil.\\w[45].\\w[45].\\w[45]Onii-chan, qu'est-ce qu'il y a ?\""
+        ],
+        "10": [
+            "\\nl< >\\{\"Onii-chan !!!\"\\}"
+        ],
+        "11": [
+            "\\nl< >\"Qu'est-ce qu'il y a, Onii-chan ?\""
+        ],
+        "12": [
+            "\\nl< >\"...Onii-chan ?\""
+        ],
+        "13": [
+            "\\nl< >\\{\"T'es vraiment bête, Onii-chan ! \\w[60]",
+            "Je te parle plus !\""
+        ],
+        "14": [
+            "\\nl< >\"Euh, Onii-chan ?\\w[60]",
+            "Tu peux pas me parler maintenant ?\""
+        ],
+        "15": [
+            "Il tapota distraitement la tête d'Imouto."
+        ],
+        "16": [
+            "Il tapota vigoureusement la tête d'Imouto."
+        ],
+        "17": [
+            "Les cheveux d'Imouto étaient si doux et moelleux,",
+            "je n'ai pas pu m'empêcher de lui caresser doucement la tête."
+        ],
+        "18": [
+            "C'est le privilège spécial d'Onii-chan !",
+            "J'ai caressé tendrement la tête d'Imouto."
+        ],
+        "19": [
+            "Imouto est la meilleure, j'ai juste envie de continuer à la caresser !",
+            "Je lui ai caressé la tête chaleureusement et avec enthousiasme."
+        ],
+        "20": [
+            "\\nl< >\"……Hein ? \\w[30]",
+            "Onii-chan, il y a écrit \"ZAKO\" sur ta tête~!\""
+        ]
+    },
+    "18": {
+        "0": [
+            "Discuter",
+            "Skinship",
+            "Faire quelque chose",
+            "Prendre un bain",
+            "Somnolent..."
+        ],
+        "1": [
+            "\\nl< >\"Je suppose qu'il est temps que je sèche mes cheveux~\""
+        ],
+        "2": [
+            "Boire quelque chose",
+            "Jouer à quelque chose"
+        ],
+        "3": [
+            "\\nl< >\"Mes cheveux ne sont pas encore secs. On boira plus tard.\""
+        ],
+        "4": [
+            "\\nl< >\"Mes cheveux ne sont pas encore secs. On jouera plus tard.\""
+        ],
+        "5": [
+            "\\nl< >\"Les mains d'Onii-chan sont bien trop coquines, donc non !\""
+        ]
+    },
+    "19": {
+        "0": [
+            "\\nl< >\"Ah... Onii-chan...\""
+        ],
+        "1": [
+            "Oh non, il est arrivé un truc super embarrassant ",
+            "il n'y a pas longtemps.",
+            "Je dois m'excuser tout de suite."
+        ],
+        "2": [
+            "\\nl< >\"Onii-chan, je suis désolée !\" \\w[60]\\^"
+        ],
+        "3": [
+            "\"Je suis déso... \\w[45]",
+            "Hein, quoi ?\""
+        ],
+        "4": [
+            "Pourquoi c'est ma sœur qui s'excuse en premier ?"
+        ],
+        "5": [
+            "\\nl< >\"Je me suis trop emballée tout à l'heure, \\w[180]",
+            "et je t'ai dit plein de choses méchantes. \\w[90]"
+        ],
+        "6": [
+            "\\nl< >...Ça va ? \\w[60]"
+        ],
+        "7": [
+            "Quelle gentille fille... ",
+            "Même si j'ai fait une bêtise, ",
+            "elle pense encore à moi."
+        ],
+        "8": [
+            "\\nl< >\"En y repensant calmement, peut-être \\w[120]",
+            "qu'Onii-chan a beaucoup de stress ces temps-ci. \\w[160]",
+            "Tu vas te battre tous les jours, ",
+            "ça doit vraiment être dur pour toi.\""
+        ],
+        "9": [
+            "\\nl< >\"Alors, alors, après avoir réfléchi... \\w[360]\\^"
+        ],
+        "10": [
+            "Imouto a l'air de vraiment vouloir ",
+            "me dire quelque chose – quelle adorable fille...",
+            "Onii-chan va finir par pleurer, tu sais ?"
+        ],
+        "11": [
+            "\\nl< >\\{\"C'est la seule façon de te remercier !\" \\w[240]\\^"
+        ],
+        "12": [
+            "\\nl< >\"Tiens ! Prends ça—! \\w[60]",
+            "Je savais pas que t'aimais ce genre de trucs, \\w[60]",
+            "Onii-chan !\""
+        ],
+        "13": [
+            "\\{J'ai eu un\\ia[\\v[84]] ! \\w[60]"
+        ],
+        "14": [
+            "C'est une culotte—— \\w[60]",
+            "encore chaude... \\w[60]",
+            "Me dis pas que—!"
+        ],
+        "15": [
+            "\\nl< >\"Onii-chan est un garçon après tout, \\w[150]",
+            "Mhm, mhm... Je suis sûre que c'est bon... c'est bon..."
+        ],
+        "16": [
+            "Une goutte de sueur froide a coulé sur mon front...",
+            "Non, si ça continue comme ça..."
+        ],
+        "17": [
+            "\\nl< >\"C'est vrai.",
+            "Onii-chan, tu as toujours été là pour moi. \\w[300]",
+            "\\{Merci ! Et bonne nuit ! \\}\"\\w[120]\\^"
+        ],
+        "18": [
+            "…………",
+            "…………"
+        ],
+        "19": [
+            "\"Non ! Ce n'est pas ça !\""
+        ],
+        "20": [
+            "\"Ce n'est pas ce que je veux, attends, non !\""
+        ],
+        "21": [
+            "\"Je veux dire, j'ai jamais pensé à un truc bizarre... !\""
+        ],
+        "22": [
+            "\\nl< >\"Nooooon—! Ton expression fait peur,",
+            "Onii-chan ! Ne t'approche pas de moi !!\""
+        ],
+        "23": [
+            "\"Laisse-moi t'expliquer !",
+            "C'est pas ce que tu crois.\""
+        ],
+        "24": [
+            "\\nl< >\"Le visage d'Onii-chan est devenu encore plus effrayant—\""
+        ],
+        "25": [
+            "\"S'il te plaît, ne me déteste pas...\""
+        ],
+        "26": [
+            "\\nl< >\"Onii-chan est le pire... Je te déteste...!\" "
+        ],
+        "27": [
+            "\\{\"Écoute...!\""
+        ],
+        "28": [
+            "Alors qu'Imouto criait comme si elle avait vu un cafard, ",
+            "j'ai arrêté de réfléchir."
+        ]
+    },
+    "20": {
+        "0": [
+            "「————ge」 \\w[60]\\^"
+        ],
+        "1": [
+            "\"————Frère\" \\w[60]\\^"
+        ],
+        "2": [
+            "On dirait que quelqu'un m'appelle."
+        ],
+        "3": [
+            "\\nl< >\"Est-ce que mon frère va bien ? Tu as l'air affreux.\" "
+        ],
+        "4": [
+            "\"—C'est toi, petite sœur ?\" "
+        ],
+        "5": [
+            "Je me suis assoupi ici ? ",
+            "J'ai la tête toute embrouillée, je pense à rien..."
+        ],
+        "6": [
+            "\\nl< > \"Tu dors encore ? Hé\" \\w[90]\\^"
+        ],
+        "7": [
+            "Embrasse ta sœur",
+            "\"Je suis réveillé maintenant.\""
+        ],
+        "8": [
+            "Le visage mignon de la fille est juste devant moi.",
+            "Sans réfléchir, je me suis penché pour la prendre fort dans mes bras."
+        ],
+        "9": [
+            "Hmm... c'est doux et ça sent si bon——",
+            "Mon nez est envahi par un parfum doux d'orange.",
+            "Ah... j'ai encore envie de dormir..."
+        ],
+        "10": [
+            "\\nl< >\"Oh là là, mon frère s'est encore endormi !\""
+        ],
+        "11": [
+            "Est-ce une illusion ? J'ai l'impression que...",
+            "La sœur devant moi a bien grandi par rapport à mes souvenirs."
+        ],
+        "12": [
+            "Je n'ai pas pu m'empêcher de tendre la main pour sentir doucement son corps –",
+            "et j'ai rapidement touché quelque chose de doux."
+        ],
+        "13": [
+            "\\nl< >\"Ah ! Frère !?\""
+        ],
+        "14": [
+            "\"Hmm... j'ai l'impression que ça a vraiment grossi...\""
+        ],
+        "15": [
+            "\\nl< >\"Mais non... \\w[60]",
+            "Frère, où tu touches là !\""
+        ],
+        "16": [
+            "\\{\"Gu...!\""
+        ],
+        "17": [
+            "J'ai senti comme si quelque chose de lourd m'avait frappé la tête,",
+            "et le monde s'est mis à tourner devant mes yeux."
+        ],
+        "18": [
+            "\\nl< >\"Tu es déjà réveillé ?\""
+        ],
+        "19": [
+            "\"Grâce à ton coup de poing, je suis maintenant bien réveillé.\""
+        ],
+        "20": [
+            "\\nl< >\"Alors, tu sais ce qui se passe maintenant ?\""
+        ],
+        "21": [
+            "\"Je sais, je viens de toucher les fesses de ma sœur.",
+            "C'était vraiment agréable————\" \\w[60]\\^"
+        ],
+        "22": [
+            "\\nl< >\\{\"Je ne te demande pas si c'était agréable !",
+            "Frère, t'es vraiment un idiot !\""
+        ],
+        "23": [
+            "Oups, je crois que je suis allé un peu trop loin.",
+            "Mais après avoir été frappé, ça m'a complètement réveillé."
+        ],
+        "24": [
+            "Et... il me semble que j'ai fait un rêve super important tout à l'heure.",
+            "Mais maintenant je m'en souviens plus du tout –"
+        ],
+        "25": [
+            "Tant pis, on verra plus tard. Je finirai bien par m'en souvenir.",
+            "Là, je dois d'abord réconforter ma sœur."
+        ],
+        "26": [
+            "\\nl< >\"Ouf. Tu as fait un cauchemar ? Tu as l'air malheureux.\""
+        ],
+        "27": [
+            "Un cauchemar ?... J'ai vraiment l'impression d'avoir fait un rêve étrange.",
+            "J'ai un mal de tête sourd, comme une grosse gueule de bois.",
+            "Il reste même quelques larmes dans mes yeux..."
+        ],
+        "28": [
+            "Cette sensation étrange et inexpliquée dans mon corps, comme si j'avais vraiment vécu quelque chose,",
+            "Je me rappelle peu à peu de ce rêve..."
+        ],
+        "29": [
+            "\\nl< >\"Oh~ De quoi tu as rêvé ?\""
+        ],
+        "30": [
+            "Ouais, j'ai rêvé de quoi déjà ?"
+        ],
+        "31": [
+            "La dernière fois que j'ai vu papa",
+            "J'ai rêvé de mon enfance",
+            "J'ai rêvé de ma sœur",
+            "J'ai rêvé de steak",
+            "Je ne me souviens de rien..."
+        ],
+        "32": [
+            "\\nl< > \"Mon frère quand il était enfant ?",
+            "J'aimerais trop rencontrer le toi version enfant~\""
+        ],
+        "33": [
+            "\\nl< > \"À courir partout avec une épée en bois, \\w[60]",
+            "en criant 'Je veux être un héros plus tard !' \\w[90]",
+            "C'était sûrement trop mignon !\""
+        ],
+        "34": [
+            "Non, non, non, c'est à qui cette histoire gênante ?",
+            "Si tu me montres ça maintenant,",
+            "je vais pleurer et vouloir me cacher !"
+        ],
+        "35": [
+            "\"Ah, mais en parlant de ça,",
+            "il paraît qu'il y a encore l'équipement que papa utilisait dans l'entrepôt.",
+            "Il a même été aventurier à une époque...\""
+        ],
+        "36": [
+            "\"Papa a déjà fait un truc comme ça ?\""
+        ],
+        "37": [
+            "\"Ce gars-là a fait plein de bêtises quand il était jeune — — \\w[60]",
+            "Bon, c'est une occasion rare, allons voir !\""
+        ],
+        "38": [
+            "C'est la pièce où papa faisait ses recherches d'alchimie.",
+            "Mais maintenant, c'est complètement à l'abandon..."
+        ],
+        "39": [
+            "\"Hé !\""
+        ],
+        "40": [
+            "Dans une cave abandonnée.",
+            "J'ai fouillé partout à la recherche de quelque chose d'utile."
+        ],
+        "41": [
+            "\"Hmm...\\w[30]Oh ?\\w[30]Oh oh !? \\w[30]",
+            "Ohhhhh ! \\w[30]",
+            "C'est------!\""
+        ],
+        "42": [
+            "\"C'est l'équipement que papa utilisait !",
+            "Trop bien, ça a vraiment la classe !\""
+        ],
+        "43": [
+            "\\nl< > \"Ah, euh... \\w[60]",
+            "Tant que mon frère est content...\""
+        ],
+        "44": [
+            "\"Regarde, ma sœur, avec ça,",
+            "même dans l'abîme je peux me balader tranquille !」"
+        ],
+        "45": [
+            "\\nl< > (Frère... on dirait un gamin surexcité...)"
+        ],
+        "46": [
+            "J'ai brandi mon équipement plein de poussière avec enthousiasme.",
+            "Mais ma sœur n'avait pas l'air intéressée."
+        ],
+        "47": [
+            "Oh, je pensais pas tomber sur un trésor...",
+            "Mais maintenant que j'y pense, j'ai peut-être oublié un truc important."
+        ],
+        "48": [
+            "C'est pas grave. Je m'en souviens pas bien, alors tant pis.",
+            "J'ai vraiment hâte d'essayer le nouvel équipement demain !"
+        ]
+    },
+    "23": {
+        "0": [
+            "\\nl< >\"Non ! Pas question que je prenne un bain avec toi !\""
+        ],
+        "1": [
+            "Imouto m'a totalement recalé.",
+            "Mais ça fait mal à entendre..."
+        ],
+        "2": [
+            "\\nl< >\"Euh... prendre un bain avec Onii-chan ?\\w[120]",
+            "Je suis plus une petite fille, tu sais..."
+        ],
+        "3": [
+            "Imouto m'a recalé.",
+            "Bon, en même temps, c'est normal..."
+        ],
+        "4": [
+            "\\nl< >\"Ouais, direction la salle de bain~!\""
+        ],
+        "5": [
+            "\\nl< >\"Ouais, il est temps de prendre un bain~\""
+        ],
+        "6": [
+            "\\nl< >\"...Ok ♥\""
+        ],
+        "7": [
+            "\\nl< >\"Hmm...\\w[80]Si Onii-chan le veut à ce point...\\w[90]",
+            "allons prendre un bain ensemble...\""
+        ],
+        "8": [
+            "\\nl< >\"Non ! Pas question que je prenne un bain avec toi !\""
+        ],
+        "9": [
+            "Imouto m'a totalement recalé.",
+            "Mais ça fait mal à entendre..."
+        ],
+        "10": [
+            "\\nl< >\"Ugh... Onii-chan, ",
+            "tu fais vraiment ton gamin...\"\\w[150]"
+        ],
+        "11": [
+            "\\nl< >\"Pff... Onii-chan, t'es vraiment une plaie...",
+            "Bon, j'y vais...\""
+        ],
+        "12": [
+            "J'ai continué à supplier et j'ai fini par convaincre Imouto...!"
+        ],
+        "13": [
+            "\\nl< >\\{\"Pas question——!!\\w[90]",
+            "Si c'est Onii-chan, tu penses forcément à un truc pervers !\""
+        ],
+        "14": [
+            "Ughhh... Je me suis fait engueuler par Imouto..."
+        ],
+        "15": [
+            "Supplier désespérément",
+            "Laisser tomber"
+        ],
+        "16": [
+            "...Je n'ai pas pris de bain il n'y a pas longtemps ?"
+        ],
+        "17": [
+            "Mmm... Je suppose que c'est l'heure du bain."
+        ],
+        "18": [
+            "Inviter Imouto",
+            "Y aller seul"
+        ],
+        "19": [
+            "C'est une occasion rare, ",
+            "je devrais peut-être essayer d'inviter ",
+            "Imouto à prendre un bain ensemble..."
+        ],
+        "20": [
+            "\\nl< >\"Tu vas prendre un bain maintenant, ",
+            "Onii-chan ? À plus tard alors~\""
+        ]
+    },
+    "39": {
+        "0": [
+            "\\{\"Ugh...!? \"\\w[60]"
+        ],
+        "1": [
+            "\"M-mon ventre me fait horriblement mal tout à coup...\""
+        ],
+        "2": [
+            "\\nl< >\"Onii-chan ? Qu'est-ce qui va pas ?\\w[40]",
+            "J'ai cru entendre un bruit bizarre venant de ton ventre.\""
+        ],
+        "3": [
+            "\\{\"Wowooooaah——!? \"\\w[60]"
+        ],
+        "4": [
+            "J'ai senti mon ventre se tordre violemment.",
+            "Hein ? J'ai mangé un truc mauvais ?"
+        ],
+        "5": [
+            "J'ai instinctivement commencé à m'inquiéter pour Imouto,",
+            "mais quand j'ai regardé, ",
+            "elle était complètement calme et normale.",
+            "Alors qu'on a mangé exactement la même chose..."
+        ],
+        "6": [
+            "Bon, c'est un soulagement si elle n'a rien,",
+            "parce qu'il n'y a qu'une seule toilette à la maison...",
+            "si elle tombe malade aussi,",
+            "ça pourrait devenir la catastrophe..."
+        ],
+        "7": [
+            "\"D-désolé, ",
+            "Onii-chan doit vraiment aller aux toilettes...\""
+        ],
+        "8": [
+            "\\nl< >\"...Hein, t'as encore des hémorroïdes ?\""
+        ],
+        "9": [
+            "\\nl< >\"T'as mal au ventre ?",
+            "Pauvre Onii-chan...\""
+        ]
+    },
+    "42": {
+        "0": [
+            "\\nl< >\"Dodo—\\w[90]",
+            "Onii-chan, il est vraiment tard... l'heure d'aller au lit, d'accord ?\""
+        ],
+        "1": [
+            "Ouais, il est déjà tard.",
+            "Je devrais peut-être juste aller me coucher."
+        ],
+        "2": [
+            "Dormir",
+            "Attendre"
+        ],
+        "3": [
+            "Il est tard, c'est l'heure de dormir———"
+        ],
+        "4": [
+            "...J'ai encore un peu envie de faire autre chose.",
+            "Je vais tenir encore un peu."
+        ],
+        "5": [
+            "\\nl< >\\}\"Mmyaa—zzZ\"\\{"
+        ],
+        "6": [
+            "……",
+            "……"
+        ],
+        "7": [
+            "Non, Imouto est déjà sur le point de s'endormir.",
+            "C'est tout pour aujourd'hui, allons dormir."
+        ],
+        "8": [
+            "J'ai doucement pris Imouto déjà endormie, ",
+            "et je l'ai ramenée au lit."
+        ],
+        "9": [
+            "Bon, je vais dormir aussi."
+        ],
+        "10": [
+            "\\nl< >\"J'ai sommeil ! Je vais au lit—",
+            "Onii-chan, t'es dans le passage, ",
+            "alors bouge, sors !\""
+        ],
+        "11": [
+            "\"Mais j'ai pas fini, hé—!\"\\w[60]\\^"
+        ],
+        "12": [
+            "\\nl< >\"Va-t'en—va-t'en—\"\\w[60]\\^"
+        ]
+    },
+    "44": {
+        "0": [
+            "Hmm... J'ai envie de boire quelque chose..."
+        ],
+        "1": [
+            "Mais y a rien à boire à la maison..."
+        ],
+        "2": [
+            "Hmm... J'ai envie de boire quelque chose..."
+        ],
+        "3": [
+            "Finalement, j'ai plus trop envie ",
+            "je bois plus autant qu'avant..."
+        ],
+        "4": [
+            "\"Tu veux un peu de\\ii[\\v[90]] ?\""
+        ],
+        "5": [
+            "\\nl< >\"Comme tu veux ! Onii-chan boit ce qu'il veut !\""
+        ],
+        "6": [
+            "\\nl< >\"Ohh ! Oui, oui, je vais boire !\""
+        ],
+        "7": [
+            "\\nl< >\"Mm, merci pour ton aide, Onii-chan.\""
+        ],
+        "8": [
+            "\\nl< >\"Ça n'a pas l'air fameux, mais bon, ça va.\""
+        ],
+        "9": [
+            "\\nl< >\"J'aime pas les trucs amers...",
+            "tu vas vraiment boire ça ?\""
+        ],
+        "10": [
+            "Ah, au fait, ",
+            "j'ai aussi acheté quelques snacks chez le petit commerçant bizarre...",
+            "je laisse Imouto en goûter aussi ?"
+        ],
+        "11": [
+            "Faire goûter",
+            "Laisser tomber"
+        ],
+        "12": [
+            "Peut-être la prochaine fois."
+        ],
+        "13": [
+            "\"Y a encore des snacks aujourd'hui !",
+            "C'est\\ii[\\v[90]], tu veux goûter ?\""
+        ],
+        "14": [
+            "\\nl< >\"Oui, je veux bien... les snacks, c'est sacré.\""
+        ],
+        "15": [
+            "\\nl< >\"Hein ? ",
+            "Même les snacks ont mauvais goût avec cette association...\""
+        ],
+        "16": [
+            "\\nl< >\"Yeah ! On peut grignoter ensemble !\""
+        ]
+    }
+}

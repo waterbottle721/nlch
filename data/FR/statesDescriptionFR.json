@@ -1,0 +1,697 @@
+{
+    "3": {
+        "name": [],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "subtitle": [
+                    "\"Je me sens agité.\""
+                ],
+                "description": [
+                    "Niveau d'excitation: _c[2] _v[25] % _c[0]"
+                ]
+            },
+            "1": {
+                "subtitle": [
+                    "\"Le corps a besoin de sensations fortes.\""
+                ],
+                "description": [
+                    "Niveau d'excitation: _c[10] _v[25] % _c[0]"
+                ]
+            },
+            "2": {
+                "subtitle": [
+                    "\"Perdre le contrôle.!\""
+                ],
+                "description": [
+                    "Niveau d'excitation: _c[18] _v[25] % _c[0]"
+                ]
+            }
+        }
+    },
+    "4": {
+        "name": [],
+        "subtitle": [
+            "\"Wooooooh.!\""
+        ],
+        "description": [
+            "Transformé en une bête folle de désir! Niveau d'excitation:\\c[18]?%\\c[0]"
+        ]
+    },
+    "5": {
+        "name": [],
+        "subtitle": [
+            "« Le poison a infecté votre corps »"
+        ],
+        "description": [
+            "Subit plus de dégâts au fil du temps!"
+        ]
+    },
+    "6": {
+        "name": [],
+        "subtitle": [
+            "« Le saignement ne s'arrêtera pas »"
+        ],
+        "description": [
+            "Subit des dégâts en fonction des PV max!"
+        ]
+    },
+    "7": {
+        "name": [],
+        "subtitle": [
+            "« Regardez, il a été frappé par la foudre! »"
+        ],
+        "description": [
+            "Complètement paralysé, je ne peux plus bouger du tout!"
+        ]
+    },
+    "8": {
+        "name": [],
+        "subtitle": [
+            "\"Chaud, chaud, chaud, chaud!\""
+        ],
+        "description": [
+            "Applique une combustion continue à toutes les unités à portée!"
+        ]
+    },
+    "9": {
+        "name": [],
+        "subtitle": [
+            "\"Transforme-toi en glace!\""
+        ],
+        "description": [
+            "Gelé solidement!"
+        ]
+    },
+    "11": {
+        "name": [],
+        "subtitle": [
+            "« Étourdi et désorienté! »"
+        ],
+        "description": [
+            "Impossible d'agir!"
+        ]
+    },
+    "13": {
+        "name": [],
+        "subtitle": [
+            "\"Fufu, voilà ce que tu obtiens en me défiant~♥\""
+        ],
+        "description": [
+            "Maudit par ce petit démon."
+        ]
+    },
+    "14": {
+        "name": [],
+        "subtitle": [
+            "\"Il fait tellement chaud.\""
+        ],
+        "description": [
+            "se sentir faible à cause de la chaleur."
+        ]
+    },
+    "15": {
+        "name": [],
+        "subtitle": [
+            "« Aux yeux des monstres, tu n'es qu'un petit prématuré pitoyable et laid… »"
+        ],
+        "description": [
+            "Déguisé en monstre – les monstres ne vous attaqueront pas activement!"
+        ]
+    },
+    "16": {
+        "name": [],
+        "subtitle": [
+            "« Tu ne sais même pas jouer à un jeu aussi simple? Quel ZAKO~ »"
+        ],
+        "description": [
+            "Certifié ZAKO pour tricherie!"
+        ]
+    },
+    "28": {
+        "name": [],
+        "subtitle": [
+            "Jeux vidéo"
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "description": [
+                    "Elle est vraiment concentrée sur le jeu,",
+                    "Il vaut mieux ne pas trop la déranger."
+                ]
+            },
+            "1": {
+                "description": [
+                    "Elle joue toujours.",
+                    "Dois-je la taquiner un peu?"
+                ]
+            }
+        }
+    },
+    "29": {
+        "name": [],
+        "subtitle": [
+            "Baignade"
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "description": [
+                    "Imouto est dans le bain - je peux",
+                    "distinguer vaguement sa silhouette"
+                ]
+            },
+            "1": {
+                "description": [
+                    "Imouto sèche ses cheveux",
+                    "avec une serviette"
+                ]
+            }
+        }
+    },
+    "30": {
+        "name": [],
+        "subtitle": [
+            "Au repos"
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "description": [
+                    "Imouto a l'air très heureux,",
+                    "Quelque chose d'intéressant s'est-il produit?"
+                ]
+            },
+            "1": {
+                "description": [
+                    "Imouto devient plus mignon",
+                    "Peut-être lui donner une petite tape!"
+                ]
+            },
+            "2": {
+                "description": [
+                    "Imouto est juste assis",
+                    "Voilà. Essaie de lui parler…"
+                ]
+            },
+            "3": {
+                "description": [
+                    "Imouto a l'air un peu triste",
+                    "Peut-être essayer de la réconforter?"
+                ]
+            },
+            "4": {
+                "description": [
+                    "Imouto semble un peu décalé",
+                    "Je me demande ce qui pourrait être fait…"
+                ]
+            },
+            "5": {
+                "description": [
+                    "Imouto a l'air endormi",
+                    "Peut-être qu'il est temps d'aller au lit?"
+                ]
+            }
+        }
+    },
+    "31": {
+        "name": [],
+        "subtitle": [
+            "Dormir"
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "description": [
+                    "Endormi comme une plante…",
+                    "incapable d’être réveillé…"
+                ]
+            },
+            "1": {
+                "description": [
+                    "Profondément endormi…",
+                    "Il semble difficile de la réveiller"
+                ]
+            },
+            "2": {
+                "description": [
+                    "Dormir profondément,",
+                    "complètement immergée dans ses rêves…"
+                ]
+            },
+            "3": {
+                "description": [
+                    "Ses cils tremblent",
+                    "comme si je murmurais dans un rêve"
+                ]
+            },
+            "4": {
+                "description": [
+                    "Elle semble à moitié éveillée",
+                    "murmurer involontairement"
+                ]
+            },
+            "5": {
+                "description": [
+                    "Imouto est presque réveillé",
+                    "mais ses sens sont encore flous"
+                ]
+            }
+        }
+    },
+    "32": {
+        "name": [],
+        "subtitle": [
+            "Affamé"
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "description": [
+                    "Imouto attend tranquillement",
+                    "pour le dîner"
+                ]
+            },
+            "1": {
+                "description": [
+                    "Imouto semble un peu inquiet",
+                    "à propos du goût du dîner…"
+                ]
+            },
+            "2": {
+                "description": [
+                    "Imouto ressemble à",
+                    "elle veut aider"
+                ]
+            }
+        }
+    },
+    "33": {
+        "name": [],
+        "subtitle": [
+            "Relaxant"
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "description": [
+                    "Imouto lèche sa glace…",
+                    "ça a l'air bien trop sans défense."
+                ]
+            }
+        }
+    },
+    "34": {
+        "name": [],
+        "subtitle": [
+            "Brossage"
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "description": [
+                    "Imouto se brosse les dents paresseusement",
+                    "j'ai toujours l'air à moitié endormi."
+                ]
+            }
+        }
+    },
+    "35": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "✦\\c[27](On dirait que le corps est",
+            "devenant si léger.)"
+        ]
+    },
+    "36": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "✦\\c[22]l'esprit commence à se détendre—"
+        ]
+    },
+    "40": {
+        "name": [],
+        "subtitle": [
+            "Pleurs"
+        ],
+        "description": [
+            ""
+        ],
+        "variants": {
+            "0": {
+                "description": [
+                    "\\c[10]Elle a mangé trop de nourriture épicée."
+                ]
+            }
+        }
+    },
+    "41": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "✦\\c[29]Satisfait après avoir mangé,",
+            "Imouto se sent heureux!"
+        ]
+    },
+    "45": {
+        "name": [],
+        "subtitle": [
+            "« J'ai promis à ma chère sœur, alors je dois le tenir »"
+        ],
+        "description": [
+            "Ne rentrez pas chez vous gravement blessé…"
+        ]
+    },
+    "46": {
+        "name": [],
+        "subtitle": [
+            "« J'ai promis à ma chère sœur, alors je dois le tenir »"
+        ],
+        "description": [
+            "Cuisiner un plat de viande"
+        ]
+    },
+    "55": {
+        "name": [],
+        "subtitle": [
+            "\"C'est mon domaine, donc aucune bêtise n'est autorisée~♥\""
+        ],
+        "description": [
+            "Attaques interdites!"
+        ]
+    },
+    "57": {
+        "name": [],
+        "subtitle": [
+            "« J'ai l'impression que je peux tout faire maintenant »"
+        ],
+        "description": [
+            "Mode Sage activé, toutes les statistiques augmentées"
+        ]
+    },
+    "58": {
+        "name": [],
+        "subtitle": [
+            "\"J'ai mangé quelque chose de mauvais.\""
+        ],
+        "description": [
+            "Le mal de ventre ne s'arrête pas!"
+        ]
+    },
+    "59": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            ".Tu as oublié quelque chose d'important? Ça reviendra peut-être plus tard."
+        ]
+    },
+    "60": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "Dégageant une odeur constante."
+        ]
+    },
+    "61": {
+        "name": [],
+        "subtitle": [
+            "\"Mon cul est en feu.\""
+        ],
+        "description": [
+            "Je ne peux pas courir ou me précipiter à cause de douleurs aux fesses!"
+        ]
+    },
+    "62": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "Se concentre sur la prochaine frappe, la vitesse de déplacement est réduite"
+        ]
+    },
+    "63": {
+        "name": [],
+        "subtitle": [
+            "« Triple vitesse du True Red »"
+        ],
+        "description": [
+            ""
+        ]
+    },
+    "64": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "Senpo en temps de recharge!"
+        ]
+    },
+    "65": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "Je me sens étourdi."
+        ]
+    },
+    "67": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "Flottant sur l'eau. Mouvement ralenti, impossible d'attaquer!"
+        ]
+    },
+    "68": {
+        "name": [],
+        "subtitle": [],
+        "description": [
+            "Je chante un sort!"
+        ]
+    },
+    "71": {
+        "name": [],
+        "subtitle": [
+            "« J'ai mangé quelque chose de délicieux, chaud et confortable à l'intérieur ~ »"
+        ],
+        "description": [
+            "Récupère une petite quantité de santé chaque seconde"
+        ]
+    },
+    "72": {
+        "name": [],
+        "subtitle": [
+            "\"Le pouvoir. déferle sur moi!\""
+        ],
+        "description": [
+            "Puissance d'attaque\\c[10]+50%\\c[0]"
+        ]
+    },
+    "73": {
+        "name": [],
+        "subtitle": [
+            "« Je commence à tout comprendre »"
+        ],
+        "description": [
+            "Puissance d'attaque magique\\c[10]+50%\\c[0]"
+        ]
+    },
+    "74": {
+        "name": [],
+        "subtitle": [
+            "\"Peux-tu suivre. ma VITESSE?!\""
+        ],
+        "description": [
+            "La vitesse de déplacement augmente"
+        ]
+    },
+    "75": {
+        "name": [],
+        "subtitle": [
+            "« Descente de l'arme divine »"
+        ],
+        "description": [
+            "Arme Gigantifiée, Augmentation des Dégâts!"
+        ]
+    },
+    "77": {
+        "name": [],
+        "subtitle": [
+            "« Flamme de la renaissance »"
+        ],
+        "description": [
+            "Permet une réanimation pendant que l'effet est actif"
+        ]
+    },
+    "78": {
+        "name": [],
+        "subtitle": [
+            "\"Coup de chance.\""
+        ],
+        "description": [
+            "Béni par le destin, les bonnes choses ont plus de chances de se produire!"
+        ]
+    },
+    "79": {
+        "name": [],
+        "subtitle": [
+            "\"Coup de chance.\""
+        ],
+        "description": [
+            "Béni par le destin, les choses tristes sont plus susceptibles de se produire!"
+        ]
+    },
+    "80": {
+        "name": [],
+        "subtitle": [
+            "« Triple vitesse du True Red »"
+        ],
+        "description": [
+            ""
+        ]
+    },
+    "85": {
+        "name": [],
+        "subtitle": [
+            "\"Mais c'est vraiment horrible.\""
+        ],
+        "description": [
+            "Débordant de vitalité — HP max augmentés!"
+        ]
+    },
+    "86": {
+        "name": [],
+        "subtitle": [
+            "« PROBLÈME DE COMPÉTENCES »"
+        ],
+        "description": [
+            "Vous avez été impitoyablement nargué! Défense et chance grandement diminuées!"
+        ]
+    },
+    "98": {
+        "name": [],
+        "subtitle": [
+            "« J'ai l'impression que ma sœur est juste à côté de moi. »"
+        ],
+        "description": [
+            "Régénération des HP!"
+        ]
+    },
+    "99": {
+        "name": [],
+        "subtitle": [
+            "« Nous sommes les gardiens! »"
+        ],
+        "description": [
+            "Puissance d'attaque +30"
+        ]
+    },
+    "104": {
+        "name": [],
+        "subtitle": [
+            "« Tu rayonnes de gloire! »"
+        ],
+        "description": [
+            "Tous les attributs augmentent, invincibilité temporaire"
+        ]
+    },
+    "105": {
+        "name": [],
+        "subtitle": [
+            "« Partage cette bénédiction avec toi »"
+        ],
+        "description": [
+            "doubler l'argent gagné"
+        ]
+    },
+    "106": {
+        "name": [],
+        "subtitle": [
+            "\"Je. je ne peux pas le soulever.\""
+        ],
+        "description": [
+            "Pas assez de force pour utiliser pleinement l'arme!"
+        ]
+    },
+    "107": {
+        "name": [],
+        "subtitle": [
+            "« Nous sommes les gardiens! »"
+        ],
+        "description": [
+            "Vitesse de déplacement augmentée!"
+        ]
+    },
+    "108": {
+        "name": [],
+        "subtitle": [
+            "« Nous sommes les gardiens! »"
+        ],
+        "description": [
+            "Attaque et défense augmentées!"
+        ]
+    },
+    "109": {
+        "name": [],
+        "subtitle": [
+            "« Nous sommes les gardiens! »"
+        ],
+        "description": [
+            "Défense augmentée!"
+        ]
+    },
+    "110": {
+        "name": [],
+        "subtitle": [
+            "« Nous sommes les gardiens! »"
+        ],
+        "description": [
+            "HP max et défense augmentés!"
+        ]
+    },
+    "115": {
+        "name": [],
+        "subtitle": [
+            "« Le cœur de l'épouvantail immortel, mais la décomposition est le destin »"
+        ],
+        "description": [
+            "Pas de récupération de HP!"
+        ]
+    },
+    "116": {
+        "name": [],
+        "subtitle": [
+            "« L'avidité sans fin vous a trouvé… »"
+        ],
+        "description": [
+            "Lâchez l'argent que vous détenez lorsque vous subissez des dégâts!"
+        ]
+    },
+    "117": {
+        "name": [],
+        "subtitle": [
+            "« Ainsi vous gagnerez la gloire du monde, et toutes les ténèbres s'enfuiront. »"
+        ],
+        "description": [
+            ""
+        ]
+    }
+}

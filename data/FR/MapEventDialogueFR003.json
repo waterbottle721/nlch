@@ -1,0 +1,425 @@
+{
+  "0": {
+    "name": "",
+    "text": [
+      "Hé ! Tu ne peux pas passer par là pour le moment."
+    ],
+    "speaker": ""
+  },
+  "1": {
+    "name": "",
+    "text": [
+      "Ce n'est pas encore accessible."
+    ],
+    "speaker": ""
+  },
+  "2": {
+    "name": "",
+    "text": [
+      "Désolé, l'accès est temporairement bloqué."
+    ],
+    "speaker": ""
+  },
+  "3": {
+    "name": "",
+    "text": [
+      "Il faudra attendre un peu avant de pouvoir entrer."
+    ],
+    "speaker": ""
+  },
+  "4": {
+    "name": "",
+    "text": [
+      "La porte est fermée pour l'instant."
+    ],
+    "speaker": ""
+  },
+  "5": {
+    "name": "",
+    "text": [
+      "Tu ne peux pas avancer ici pour le moment."
+    ],
+    "speaker": ""
+  },
+  "6": {
+    "name": "",
+    "text": [
+      "Impossible de passer par là actuellement."
+    ],
+    "speaker": ""
+  },
+  "7": {
+    "name": "",
+    "text": [
+      "L'accès est restreint pour le moment."
+    ],
+    "speaker": ""
+  },
+  "8": {
+    "name": "",
+    "text": [
+      "Ce passage est bloqué pour l'instant."
+    ],
+    "speaker": ""
+  },
+  "9": {
+    "name": "",
+    "text": [
+      "Il n'y a rien d'intéressant par ici."
+    ],
+    "speaker": ""
+  },
+  "10": {
+    "name": "",
+    "text": [
+      "On dirait que ce chemin ne mène nulle part."
+    ],
+    "speaker": ""
+  },
+  "11": {
+    "name": "",
+    "text": [
+      "Tu ne peux rien faire ici pour le moment."
+    ],
+    "speaker": ""
+  },
+  "12": {
+    "name": "",
+    "text": [
+      "Ce n'est pas le bon moment pour aller par là."
+    ],
+    "speaker": ""
+  },
+  "13": {
+    "name": "",
+    "text": [
+      "La route est bloquée, essaie un autre chemin."
+    ],
+    "speaker": ""
+  },
+  "14": {
+    "name": "",
+    "text": [
+      "Ce passage n'est pas encore disponible."
+    ],
+    "speaker": ""
+  }
+,
+  "15": {
+    "name": "",
+    "text": [
+      "Tu ne peux pas ouvrir cette porte pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "16": {
+    "name": "",
+    "text": [
+      "Il faut encore patienter avant de pouvoir passer."
+    ],
+    "speaker": ""
+  },
+  "17": {
+    "name": "",
+    "text": [
+      "Quelque chose bloque le passage."
+    ],
+    "speaker": ""
+  },
+  "18": {
+    "name": "",
+    "text": [
+      "Tu ne peux pas utiliser ceci maintenant."
+    ],
+    "speaker": ""
+  },
+  "19": {
+    "name": "",
+    "text": [
+      "Cette action est impossible pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "20": {
+    "name": "",
+    "text": [
+      "Il n’y a rien à faire ici pour le moment."
+    ],
+    "speaker": ""
+  },
+  "21": {
+    "name": "",
+    "text": [
+      "Tu ne peux pas continuer par ici."
+    ],
+    "speaker": ""
+  },
+  "22": {
+    "name": "",
+    "text": [
+      "Tu dois faire autre chose avant de passer par là."
+    ],
+    "speaker": ""
+  },
+  "23": {
+    "name": "",
+    "text": [
+      "L’accès est pour l’instant impossible."
+    ],
+    "speaker": ""
+  },
+  "24": {
+    "name": "",
+    "text": [
+      "Ce n’est pas encore accessible."
+    ],
+    "speaker": ""
+  },
+  "25": {
+    "name": "",
+    "text": [
+      "Impossible d’ouvrir pour le moment."
+    ],
+    "speaker": ""
+  },
+  "26": {
+    "name": "",
+    "text": [
+      "Le chemin est bloqué."
+    ],
+    "speaker": ""
+  },
+  "27": {
+    "name": "",
+    "text": [
+      "Tu dois patienter avant d’avancer ici."
+    ],
+    "speaker": ""
+  },
+  "28": {
+    "name": "",
+    "text": [
+      "Il te manque quelque chose pour continuer."
+    ],
+    "speaker": ""
+  },
+  "29": {
+    "name": "",
+    "text": [
+      "La porte ne veut pas s’ouvrir."
+    ],
+    "speaker": ""
+  }
+,
+  "30": {
+    "name": "",
+    "text": [
+      "Tu ne peux rien faire ici, pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "31": {
+    "name": "",
+    "text": [
+      "Il n’y a rien ici."
+    ],
+    "speaker": ""
+  },
+  "32": {
+    "name": "",
+    "text": [
+      "Ce passage n’est pas encore disponible."
+    ],
+    "speaker": ""
+  },
+  "33": {
+    "name": "",
+    "text": [
+      "Tu dois attendre encore un peu pour avancer."
+    ],
+    "speaker": ""
+  },
+  "34": {
+    "name": "",
+    "text": [
+      "Le passage est temporairement fermé."
+    ],
+    "speaker": ""
+  },
+  "35": {
+    "name": "",
+    "text": [
+      "Il semble qu’il faille attendre avant de passer."
+    ],
+    "speaker": ""
+  },
+  "36": {
+    "name": "",
+    "text": [
+      "Rien à faire ici pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "37": {
+    "name": "",
+    "text": [
+      "Impossible d’agir ici pour le moment."
+    ],
+    "speaker": ""
+  },
+  "38": {
+    "name": "",
+    "text": [
+      "Tu dois encore patienter."
+    ],
+    "speaker": ""
+  },
+  "39": {
+    "name": "",
+    "text": [
+      "L’accès est temporairement verrouillé."
+    ],
+    "speaker": ""
+  },
+  "40": {
+    "name": "",
+    "text": [
+      "Tu n’as rien à faire ici pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "41": {
+    "name": "",
+    "text": [
+      "La voie est bloquée, essaie plus tard."
+    ],
+    "speaker": ""
+  },
+  "42": {
+    "name": "",
+    "text": [
+      "Impossible d’avancer ici pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "43": {
+    "name": "",
+    "text": [
+      "Il ne se passe rien ici."
+    ],
+    "speaker": ""
+  },
+  "44": {
+    "name": "",
+    "text": [
+      "Tu dois attendre pour passer par ici."
+    ],
+    "speaker": ""
+  },
+  "45": {
+    "name": "",
+    "text": [
+      "Impossible d’ouvrir ce passage maintenant."
+    ],
+    "speaker": ""
+  }
+,
+  "46": {
+    "name": "",
+    "text": [
+      "Ce n’est pas accessible pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "47": {
+    "name": "",
+    "text": [
+      "Tu dois accomplir autre chose avant de passer ici."
+    ],
+    "speaker": ""
+  },
+  "48": {
+    "name": "",
+    "text": [
+      "Il n’y a rien de spécial ici pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "49": {
+    "name": "",
+    "text": [
+      "Le passage est fermé temporairement."
+    ],
+    "speaker": ""
+  },
+  "50": {
+    "name": "",
+    "text": [
+      "Rien ne se passe pour le moment."
+    ],
+    "speaker": ""
+  },
+  "51": {
+    "name": "",
+    "text": [
+      "Ce n’est pas le bon moment pour utiliser ce passage."
+    ],
+    "speaker": ""
+  },
+  "52": {
+    "name": "",
+    "text": [
+      "La route est bloquée, essaie un autre chemin."
+    ],
+    "speaker": ""
+  },
+  "53": {
+    "name": "",
+    "text": [
+      "Tu ne peux pas avancer par ici maintenant."
+    ],
+    "speaker": ""
+  },
+  "54": {
+    "name": "",
+    "text": [
+      "Impossible d’agir ici pour l’instant."
+    ],
+    "speaker": ""
+  },
+  "55": {
+    "name": "",
+    "text": [
+      "L’accès n’est pas encore autorisé."
+    ],
+    "speaker": ""
+  },
+  "56": {
+    "name": "",
+    "text": [
+      "Tu dois patienter pour avancer ici."
+    ],
+    "speaker": ""
+  },
+  "57": {
+    "name": "",
+    "text": [
+      "Tu ne peux rien faire ici pour le moment."
+    ],
+    "speaker": ""
+  },
+  "58": {
+    "name": "",
+    "text": [
+      "Ce n’est pas possible maintenant."
+    ],
+    "speaker": ""
+  },
+  "59": {
+    "name": "",
+    "text": [
+      "Tu ne peux pas continuer ici pour l’instant."
+    ],
+    "speaker": ""
+  }
+}

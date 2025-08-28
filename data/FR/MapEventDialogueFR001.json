@@ -1,0 +1,198 @@
+{
+    "possibleDrops": [
+        "Drops possibles"
+    ],
+    "7": {
+        "objectName": [
+            "Feu"
+        ],
+        "sentouryoku": [
+            "???"
+        ],
+        "description": [
+            ""
+        ],
+        "1": [
+            "J'ai trouvé un feu de camps...",
+            "maintenant que dois-je faire ?"
+        ],
+        "2": [
+            "Repose-toi",
+            "Ne rien faire"
+        ]
+    },
+    "8": {
+        "objectName": [
+            "\\c[116]A↗SA↘BA↗"
+        ],
+        "sentouryoku": [
+            "2333"
+        ],
+        "description": [
+            "Une étrange créature qui adore manger des fraises",
+            "Il a la peau dure et une défense absurde, mais depuis ",
+            "c'est tellement concentré sur les fraises,  ",
+            "il manque cruellement d'envie d'attaquer. De ce fait,",
+            "les aventuriers de passage finissent souvent par le nourrir…"
+        ],
+        "1": [
+            "",
+            ""
+        ],
+        "2": [
+            "",
+            ""
+        ]
+    },
+    "24": {
+        "objectName": [
+            "\\c[114]Lapin de ménage"
+        ],
+        "sentouryoku": [
+            "?77"
+        ],
+        "description": [
+            "Une étrange fille toujours habillée en femme de chambre avec des oreilles de lapin.",
+            "Possède la capacité de se téléporter, ",
+            "apparaissant de toutes sortes de trous étranges.",
+            "Il taquine fréquemment les aventuriers mais est généralement inoffensif."
+        ],
+        "1": [
+            "……Un?",
+            "Pourquoi es-tu si moche, USA…?"
+        ],
+        "2": [
+            "États-Unis… Je sens…",
+            "tu as le parfum des carottes, usa…"
+        ]
+    },
+    "32": {
+        "objectName": [
+            "Gacha mystérieux"
+        ],
+        "sentouryoku": [
+            "9"
+        ],
+        "description": [
+            "Une machine à gacha invoquée par une carte de tarot.",
+            "Il dévore tout ce que les aventuriers lui offrent.",
+            "Lorsqu'il est satisfait, il tourne joyeusement et ",
+            "crache enfin une capsule remplie de récompense.",
+            "Mais attention à ne pas le suralimenter, même si c'est",
+            "une machine, il semble qu'elle ait une intoxication alimentaire..."
+        ],
+        "1": [
+            "Toujours dans la rivière !"
+        ],
+        "2": [
+            "J'ai trouvé une machine à gacha bizarre...",
+            "Son expression ressemble à celle d'Imouto..."
+        ],
+        "3": [
+            "Essayez d'insérer de l'argent",
+            "Essayez de le nourrir"
+        ],
+        "4": [
+            "Mais je n’ai pas assez d’argent pour le nourrir…"
+        ],
+        "5": [
+            "Dois-je vraiment le nourrir ? ",
+            "\\ii[\\v[90]]…?"
+        ],
+        "6": [
+            "Ouais",
+            "Non"
+        ]
+    },
+    "72": {
+        "objectName": [
+            "\\c[115]Main coupée du mage déchu"
+        ],
+        "sentouryoku": [
+            "480"
+        ],
+        "description": [
+            "Le membre coupé d'un mage mort.",
+            "Personne ne sait ce que son propriétaire d'origine a vécu,",
+            "Mais imprégnée de nécromancie, cette main reste active.",
+            "Les aventuriers le voient souvent faire des gestes évidents ",
+            "lors de l'attaque."
+        ]
+    },
+    "102": {
+        "objectName": [
+            "Poubelle"
+        ],
+        "sentouryoku": [
+            "???"
+        ],
+        "description": [
+            "Même dans l'abîme mortel, jeter des déchets n'est pas cool.",
+            "Pourtant, tout ce que vous jetez disparaît le lendemain...",
+            "On dirait que quelqu'un fait le ménage.",
+            "Mais attention : ne jetez pas de produits inflammables.",
+            "Traitez-le trop brutalement, ",
+            "et vous pourriez déclencher quelque chose de désagréable."
+        ],
+        "1": [
+            "J'ai trouvé une poubelle...",
+            "Que faire avec ça ?"
+        ],
+        "2": [
+            "Rechercher autour",
+            "Lâcher l'arme",
+            "Équipement de largage"
+        ],
+        "3": [
+            "C'est juste le truc ",
+            "Je viens de jeter..."
+        ],
+        "4": [
+            "(Ugh... Mon sac à dos est complètement plein...",
+            "Je vais devoir tout jeter d'un coup...)"
+        ],
+        "5": [
+            "Jetez tout !",
+            "Réfléchissez-y à deux fois..."
+        ],
+        "6": [
+            "...Dois-je vraiment les jeter ?",
+            "\\str[8]"
+        ],
+        "7": [
+            "\\fr${itemIcon}\\fr et ${itemLength} équipement au total."
+        ]
+    },
+    "110": {
+        "objectName": [
+            "Épouvantail"
+        ],
+        "sentouryoku": [
+            "???"
+        ],
+        "description": [
+            "Je ne suis qu'un épouvantail.",
+            "Comme je n'ai pas de cœur, ",
+            "Je ne ressens pas la douleur."
+        ]
+    },
+    "119": {
+        "objectName": [
+            "\\c[10]Diable de la mort"
+        ],
+        "garble": [
+            "vrai"
+        ],
+        "sentouryoku": [
+            "???"
+        ],
+        "description": [
+            "Une simple ombre de la ",
+            "La volonté du Diable de la Mort—",
+            "aucun mortel ne survit à son prix.",
+            "Même cet écho apporte la mort ",
+            "à tout ce qu'il voit,",
+            "invocateur inclus. "
+        ]
+    }
+}

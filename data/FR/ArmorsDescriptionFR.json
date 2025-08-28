@@ -1,0 +1,875 @@
+{
+    "3": {
+        "name": [
+            "Accessoire pour cheveux étranges"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un accessoire capillaire orné d’un élément inhabituel.",
+            "Est-ce un lapin… ou un petit pain…?"
+        ],
+        "ability": [
+            ""
+        ]
+    },
+    "6": {
+        "name": [
+            "Naissance du malheur"
+        ],
+        "subtitle": "",
+        "description": [
+            "Parasité par une pierre philosophale, une créature faible a été infusée",
+            "d’une vitalité sans fin, oscillant sans cesse entre la vie et la mort,",
+            "jusqu’à ce que la folie prenne le dessus. Même retiré, ce pouvoir demeure."
+        ],
+        "ability": [
+            "Augmente les PV. Améliore les effets de récupération des PV de 25%.",
+            "Accorde une régénération automatique lorsqu’il est équipé."
+        ]
+    },
+    "7": {
+        "name": [
+            "Fœtus maudit"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un fœtus maudit sous-développé qui, malgré tout,",
+            "reste vivant. Sa volonté intense de survie et sa vitalité débordante",
+            "peuvent même influencer son porteur."
+        ],
+        "ability": [
+            "Augmente les PV. Améliore les effets de récupération des PV de 20%."
+        ]
+    },
+    "8": {
+        "name": [
+            "Amas de cristaux de mana"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un minéral façonné par le Grand Labyrinthe, contenant des traces de mana.",
+            "Le porter améliore la compréhension magique."
+        ],
+        "ability": [
+            "L’équiper augmente la vitesse d’incantation et la puissance magique."
+        ]
+    },
+    "9": {
+        "name": [
+            "Amas de mana abyssal"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un amas rare imprégné de mana dense,",
+            "émettant des ondes magiques palpables. Très recherché par les alchimistes."
+        ],
+        "ability": [
+            "L’équiper augmente la vitesse d’incantation et la puissance magique."
+        ]
+    },
+    "10": {
+        "name": [
+            "Cercle de concentration"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un cercle porté par le grand sage durant sa jeunesse en tant",
+            "qu’aventurier. Il aide à se concentrer et à bloquer les distractions extérieures."
+        ],
+        "ability": [
+            "Immunise contre l’étourdissement.",
+            "Améliore la puissance magique et la portée d’incantation."
+        ]
+    },
+    "11": {
+        "name": [
+            "Gants drainant le mana"
+        ],
+        "subtitle": "",
+        "description": [
+            "Gants portés par le grand sage durant sa jeunesse comme",
+            "aventurier. Ils recueillent naturellement du mana,",
+            "imprégnant les armes de propriétés magiques."
+        ],
+        "ability": [
+            "Les armes infligent des dégâts magiques supplémentaires."
+        ]
+    },
+    "12": {
+        "name": [
+            "Griffes Neko empruntées"
+        ],
+        "subtitle": [
+            " « ...Miaou~? »"
+        ],
+        "description": [
+            "Des griffes Neko cachées à l’intérieur d’un Slime Neko, apparemment",
+            "infusées de l’esprit d’un chat. Les équiper augmente votre agilité !"
+        ],
+        "ability": [
+            "Augmente la puissance d’attaque et la vitesse d’attaque."
+        ]
+    },
+    "13": {
+        "name": [
+            "Pattes de Neko empruntées"
+        ],
+        "subtitle": [
+            " « ...Miaou~? »"
+        ],
+        "description": [
+            "Des pattes de Neko cachées dans un Slime Neko, apparemment",
+            "infusées de l’esprit d’un chat. Les équiper augmente votre agilité !"
+        ],
+        "ability": [
+            "Augmente la vitesse d’attaque et de déplacement, réduit le temps de recharge de Senpo."
+        ]
+    },
+    "14": {
+        "name": [
+            "Anneau d’herbe parfumée"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un anneau tressé à partir de feuilles et de rhizomes, émettant un parfum d’herbes.",
+            "Autrefois un charme pour les voyageurs, il symbolise la vitalité et l’énergie."
+        ],
+        "ability": [
+            "PV max +\\c[29]${$gameActors.actor(1).skillMasteryLevel(35)>0?(($gameActors.actor(1).skillMasteryLevel(35)*($gameActors.actor(1).skillMasteryLevel(35) + 1)/2)*15)/$gameActors.actor(1).skillMasteryLevel(35):15}\\c[0]",
+            "Le port de plusieurs exemplaires de cet équipement renforce son effet."
+        ]
+    },
+    "15": {
+        "name": [
+            "Costume en peluche Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un costume de chat en peluche doux et moelleux — surdimensionné et confortable.",
+            "Son design spacieux vous enveloppe et cache même quelques surprises~"
+        ],
+        "ability": [
+            "Capacité de port supplémentaire pour les armes +10.",
+            "Capacité de port supplémentaire pour l’équipement +20."
+        ]
+    },
+    "16": {
+        "name": [
+            "Casque à pointes perforantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un casque métallique à pointes dégageant un danger sous tous les angles,",
+            "offrant une défense solide et infligeant automatiquement des dégâts aux ennemis proches."
+        ],
+        "ability": [
+            "Inflige automatiquement des dégâts aux ennemis proches."
+        ]
+    },
+    "17": {
+        "name": [
+            "Armure à pointes perforantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Une armure métallique à pointes dégageant un danger sous tous les angles,",
+            "offrant une défense solide et infligeant automatiquement des dégâts aux ennemis proches."
+        ],
+        "ability": [
+            "Inflige automatiquement des dégâts aux ennemis proches."
+        ]
+    },
+    "18": {
+        "name": [
+            "Gantelets à pointes perforantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Des gantelets métalliques à pointes dégageant un danger sous tous les angles,",
+            "offrant une défense solide et infligeant automatiquement des dégâts aux ennemis proches."
+        ],
+        "ability": [
+            "Inflige automatiquement des dégâts aux ennemis proches lors d’une attaque."
+        ]
+    },
+    "19": {
+        "name": [
+            "Bottes à pointes perforantes"
+        ],
+        "subtitle": "",
+        "description": [
+            "Des bottes métalliques à pointes dégageant un danger sous tous les angles,",
+            "offrant une défense solide et infligeant automatiquement des dégâts aux ennemis proches."
+        ],
+        "ability": [
+            "Inflige automatiquement des dégâts aux ennemis proches lors des déplacements."
+        ]
+    },
+    "20": {
+        "name": [
+            "Casque de chevalier"
+        ],
+        "subtitle": "",
+        "description": [
+            "L’armure standard des chevaliers de la cour. Son design richement décoré et robuste",
+            "symbolise leur adhésion au code chevaleresque."
+        ],
+        "ability": [
+            "Augmente la défense lorsque les PV sont inférieurs à \\c[10]30%\\c[0]."
+        ]
+    },
+    "21": {
+        "name": [
+            "Armure de chevalier"
+        ],
+        "subtitle": "",
+        "description": [
+            "L’armure standard des chevaliers de la cour. Son design richement décoré et robuste",
+            "symbolise leur adhésion au code chevaleresque."
+        ],
+        "ability": [
+            "Augmente la défense lorsque les PV sont inférieurs à \\c[10]30%\\c[0]."
+        ]
+    },
+    "22": {
+        "name": [
+            "Gantelets de chevalier"
+        ],
+        "subtitle": "",
+        "description": [
+            "L’armure standard des chevaliers de la cour. Son design richement décoré et robuste",
+            "symbolise leur adhésion au code chevaleresque."
+        ],
+        "ability": [
+            "Augmente l’attaque et la défense lorsque les PV sont inférieurs à \\c[10]30%\\c[0]."
+        ]
+    },
+    "23": {
+        "name": [
+            "Jambières de chevalier"
+        ],
+        "subtitle": "",
+        "description": [
+            "L’armure standard des chevaliers de la cour. Son design richement décoré et robuste",
+            "symbolise leur adhésion au code chevaleresque."
+        ],
+        "ability": [
+            "Augmente la vitesse de déplacement lorsque les PV sont inférieurs à \\c[10]30%\\c[0]."
+        ]
+    },
+    "26": {
+        "name": [
+            "Plume de phénix"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Une plume de phénix, symbole de vie éternelle, qui brûle encore d’une flamme chaleureuse.",
+            "Même une seule plume détient le pouvoir de ramener les morts à la vie."
+        ],
+        "ability": [
+            "S’active lorsque les PV tombent à zéro, restaure totalement les PV.",
+            "L’objet est détruit après activation."
+        ]
+    },
+    "27": {
+        "name": [
+            "Papier toilette"
+        ],
+        "subtitle": "",
+        "description": [
+            "Du papier toilette venant de la maison.",
+            "Un objet pratique pour les aventuriers ayant soudainement besoin d’une pause pipi dans un donjon dangereux."
+        ],
+        "ability": [
+            "Réduit les dégâts de saignement subis de \\c[10]30%\\c[0]."
+        ]
+    },
+    "29": {
+        "name": [
+            "Jacky la sanglante"
+        ],
+        "subtitle": [
+            "\"Celui-ci a soif de cris...\""
+        ],
+        "description": [
+            "L’une des armes mortelles d’un tueur notoire,",
+            "qui frémit encore d’anticipation."
+        ],
+        "ability": [
+            "Inflige plus de dégâts aux ennemis à faible PV, jusqu’à \\c[10]30%\\c[0]."
+        ]
+    },
+    "32": {
+        "name": [
+            "Coup de patte Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "\"Hyaa—!! Ne m’embête pas, nya !\"",
+            "Des gants de chat à coussinets souples, l’arme fétiche d’une certaine catgirl.",
+            "Les porter donne une agilité féline… et une envie de poisson."
+        ],
+        "ability": [
+            "Vitesse d’attaque accrue. Coups supplémentaires +1.",
+            "La chance d’activer des effets spéciaux sur coups supplémentaires est réduite de moitié."
+        ]
+    },
+    "33": {
+        "name": [
+            "Casque pomme"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un casque fait de pommes, inutile pour se défendre,",
+            "mais les pommes sont si délicieuses !"
+        ],
+        "ability": [
+            "Peut déclencher une guérison lorsqu’on est blessé."
+        ]
+    },
+    "36": {
+        "name": [
+            "Maneki Neko"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un petit Serviteur cupide à l’air perpétuellement insatisfait.",
+            "Ramasse avidement tout objet tombé, peu importe sa valeur."
+        ],
+        "ability": [
+            "Maneki Neko ramasse automatiquement tous les types de butin pour vous.",
+            "En équiper plusieurs n’augmente que la portée de collecte."
+        ]
+    },
+    "37": {
+        "name": [
+            "Tirelire Cochon"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un Serviteur mignon qui stocke l’argent ramassé.",
+            "Quelque chose pourrait se passer lorsqu’elle est pleine, mais pour l’instant elle est très fragile."
+        ],
+        "ability": [
+            "Ramasse joyeusement l’argent. Économies actuelles : \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0] yen !",
+            "Se brise facilement en cas d’attaque, perdant tout l’argent stocké."
+        ]
+    },
+    "38": {
+        "name": [
+            "Tirelire Cochon Cupide"
+        ],
+        "subtitle": "",
+        "description": [
+            "Une tirelire débordant de richesse, un vrai rêve devenu réalité.",
+            "Même le ventre plein d’or, sa cupidité reste sans limite."
+        ],
+        "ability": [
+            "Émet l’aura de la Demande de Mamon. Économies actuelles : \\c[6]${$gameSelfVariables.value([1, 110, 'deposit'])}\\c[0] yen !",
+            "Ramasse l’argent à l’infini, verse des intérêts toutes les 10 secondes."
+        ]
+    },
+    "40": {
+        "name": [
+            "Uniforme de Maid"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un trophée obtenu après avoir donné une leçon à la fille espiègle",
+            "aux oreilles de lapin. Il porte encore l’odeur de terre et de carottes."
+        ],
+        "ability": [
+            "Permet de se déguiser en monstre mais empêche d’attaquer.",
+            "En l’équipant, vous devenez le meilleur ami de Maid Bunny."
+        ]
+    },
+    "41": {
+        "name": [
+            "Oreilles de lapin moe"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un accessoire d’oreilles de lapin amovibles.",
+            "Peu importe qui les porte, il sera absolument adorable !"
+        ],
+        "ability": [
+            "Chance accrue d’obtenir des objets !"
+        ]
+    },
+    "42": {
+        "name": [
+            "Âme du Démon des Bombes"
+        ],
+        "subtitle": [
+            "\"Explooooooosion !!\""
+        ],
+        "description": [
+            "Une volonté qui a tout sacrifié pour les explosions.",
+            "Maintenant que vous la portez, pourquoi ne pas viser des explosions encore plus grandes ?"
+        ],
+        "ability": [
+            "Petite chance de déclencher une explosion en attaquant ou en étant touché.",
+            "Réduit de 50% les dégâts d’explosion subis."
+        ]
+    },
+    "45": {
+        "name": [
+            "Étreinte vénéneuse"
+        ],
+        "subtitle": [
+            "\"Cette dague dégouline de poison mortel, tu sais — (léchage)\""
+        ],
+        "description": [
+            "Une épée courte magique empoisonnée — à garder à distance."
+        ],
+        "ability": [
+            "Un Serviteur qui gravite autour de vous.",
+            "Fortes chances d’empoisonner au contact."
+        ]
+    },
+    "46": {
+        "name": [
+            "Poing de la Fureur"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un poing magique puissant,",
+            "bouillonnant d’une rage inconnue, il reste toujours fermé…"
+        ],
+        "ability": [
+            "Un Serviteur qui gravite autour de vous.",
+            "Repousse tous les ennemis touchés."
+        ]
+    },
+    "47": {
+        "name": [
+            "Main maudite de Xerise"
+        ],
+        "subtitle": "",
+        "description": [
+            "Une main tranchée imprégnée de pouvoir mort-vivant.",
+            "Même sans corps, elle reste vive et agressive."
+        ],
+        "ability": [
+            "Un Serviteur qui gravite autour de vous.",
+            "Maudit toute cible à qui elle adresse son majeur."
+        ]
+    },
+    "50": {
+        "name": [
+            "Chips"
+        ],
+        "subtitle": "",
+        "description": [
+            "Fraîchement frites avec un arôme chaud et savoureux.",
+            "Attention aux mouettes !"
+        ],
+        "ability": [
+            "Attire les mouettes qui volent vos chips."
+        ]
+    },
+    "53": {
+        "name": [
+            "Anneau de l’homme pendu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un anneau fait avec les os du défunt Homme Pendu.",
+            "Bien que la plupart de son pouvoir soit perdu,",
+            "il offre encore à son porteur un peu de liberté face à la gravité."
+        ],
+        "ability": [
+            "Réduit les dégâts de chute de 50%."
+        ]
+    },
+    "54": {
+        "name": [
+            "Graal d’or incomplet"
+        ],
+        "subtitle": "",
+        "description": [
+            "Une relique de saint pas encore remplie, elle bénit le porteur d’une immense chance.",
+            "L’origine de cette bénédiction reste inconnue,",
+            "alors qu’elle attend silencieusement le jour où elle sera complète."
+        ],
+        "ability": [
+            "Augmente énormément la chance. Double l’argent gagné."
+        ]
+    },
+    "55": {
+        "name": [
+            "Gants de l’incendiaire"
+        ],
+        "subtitle": [
+            "\"Hah, quels feux d’artifice minables.\""
+        ],
+        "description": [
+            "Des gants épais et ignifugés qui sentent la poudre à canon."
+        ],
+        "ability": [
+            "+30% de rayon d’explosion pour les bombes déclenchées par soi-même.",
+            "Les bombes peuvent déclencher des explosions en chaîne."
+        ]
+    },
+    "56": {
+        "name": [
+            "Miséricorde de la Sainte Vierge"
+        ],
+        "subtitle": [
+            "\"Enfant sage, enfant sage...\""
+        ],
+        "description": [
+            "Un vêtement de religieuse, doux comme la soie, inoubliable au toucher.",
+            "Une aura sacrée coule dans ses fibres, apportant réconfort."
+        ],
+        "ability": [
+            "Force l’entrée en mode Sage.",
+            "Augmente l’affinité lorsque vous caressez la tête d’Imouto."
+        ]
+    },
+    "59": {
+        "name": [
+            "Pendentif Rubrum"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "La précieuse relique du Magicien Déchu.",
+            "Un pendentif façonné à partir d’un fragment de Philosopher’s,",
+            "imprégné d’un pouvoir alchimique discret mais éternel."
+        ],
+        "ability": [
+            "Augmente l’attaque magique selon le nombre de fragments de Philosopher’s détenus.",
+            "Réduit l’usure de la durabilité des armes lors de l’incantation de 24%."
+        ]
+    },
+    "62": {
+        "name": [
+            "Gants du Mage Déchu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Des gants maudits imprégnés de magie noire,",
+            "habités par un esprit vengeur avide d’attaque."
+        ],
+        "ability": [
+            "Les projectiles poursuivent les ennemis proches."
+        ]
+    },
+    "63": {
+        "name": [
+            "Chaussures du Mage Déchu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Des chaussures maudites imprégnées de magie noire,",
+            "habitées par un esprit vengeur qui confère une agilité spectrale."
+        ],
+        "ability": [
+            "Augmente la vitesse de déplacement, confère l’état ‘void’ lors de l’utilisation de Senpo."
+        ]
+    },
+    "65": {
+        "name": [
+            "Bandeau de Détermination"
+        ],
+        "subtitle": [
+            "\"T’sais qui je suis, non !?\""
+        ],
+        "description": [
+            "Un bandeau qui éveille la passion quand on le porte.",
+            "Aucun effet réel, mais un esprit inébranlable."
+        ],
+        "ability": [
+            "Réduit les chances d’altération d’état.",
+            "Petite chance de résister aux dégâts fatals."
+        ]
+    },
+    "67": {
+        "name": [
+            "Brassards de l’artiste martial"
+        ],
+        "subtitle": "",
+        "description": [
+            "Brassards bandés portés par les artistes martiaux à l’entraînement.",
+            "Protègent les articulations tout en améliorant la précision des mouvements."
+        ],
+        "ability": [
+            "-12% de consommation de durabilité des armes.",
+            "Vitesse d’attaque augmentée et combos à mains nues renforcés."
+        ]
+    },
+    "68": {
+        "name": [
+            "Chaussures de l’artiste martial"
+        ],
+        "subtitle": "",
+        "description": [
+            "Chaussures courantes chez les artistes martiaux ayant maîtrisé leur art,",
+            "dégagent une aura puissante."
+        ],
+        "ability": [
+            "Vitesse de déplacement augmentée. Senpo amélioré."
+        ]
+    },
+    "69": {
+        "name": [
+            "Casse-gueule"
+        ],
+        "subtitle": [
+            "\"Putain... j’ai juste envie de coller une droite à quelqu’un...!\""
+        ],
+        "description": [
+            "Des gants de boxe laissés par un boxeur légendaire.",
+            "On sent encore la puissance qui y demeure."
+        ],
+        "ability": [
+            "Impossible d’utiliser des armes quand équipés.",
+            "Les coups de poing peuvent infliger des dégâts bonus selon les PV de la cible."
+        ]
+    },
+    "70": {
+        "name": [
+            "Cœur de l’épouvantail"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un corps creux d’épouvantail.",
+            "Pas de chaleur, pas de battement… mais il peut vivre à votre place."
+        ],
+        "ability": [
+            "Empêche toute récupération de PV en étant équipé.",
+            "À 0 PV, vous restez actif un peu plus longtemps avant de tomber."
+        ]
+    },
+    "73": {
+        "name": [
+            "Anneau de lave"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un anneau forgé à partir de roche parcourue par une lave brûlante.",
+            "Le porter atténue la douleur du gel comme de la flamme."
+        ],
+        "ability": [
+            "Réduit fortement les chances d’être gelé.",
+            "Réduit les risques d’être brûlé."
+        ]
+    },
+    "80": {
+        "name": [
+            "Décret Royal"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un anneau symbolisant la gloire suprême d’un vrai roi.",
+            "Booste fortement le moral des suivants !"
+        ],
+        "ability": [
+            "Augmente légèrement toutes les stats.",
+            "Agrandit tous les serviteurs et améliore leurs attributs spéciaux."
+        ]
+    },
+    "125": {
+        "name": [
+            "Atsu Atsu Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Une poupée de chiffon fabriquée avec des prières sincères.",
+            "Porte des vœux, provoquant de légers changements météorologiques.",
+            "Mais la poupée disparaît silencieusement ensuite."
+        ],
+        "ability": [
+            "Assure un temps caniculaire le lendemain lorsqu’équipé."
+        ]
+    },
+    "126": {
+        "name": [
+            "Teru Teru Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Une poupée de chiffon fabriquée avec des prières sincères.",
+            "Porte des vœux, provoquant de légers changements météorologiques.",
+            "Mais la poupée disparaît silencieusement ensuite."
+        ],
+        "ability": [
+            "Assure un temps ensoleillé le lendemain lorsqu’équipé."
+        ]
+    },
+    "127": {
+        "name": [
+            "Kumo Kumo Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Une poupée de chiffon fabriquée avec des prières sincères.",
+            "Porte des vœux, provoquant de légers changements météorologiques.",
+            "Mais la poupée disparaît silencieusement ensuite."
+        ],
+        "ability": [
+            "Assure un temps nuageux le lendemain lorsqu’équipé."
+        ]
+    },
+    "128": {
+        "name": [
+            "Ame Ame Bouzu"
+        ],
+        "subtitle": "",
+        "description": [
+            "Une poupée de chiffon fabriquée avec des prières sincères.",
+            "Porte des vœux, provoquant de légers changements météorologiques.",
+            "Mais la poupée disparaît silencieusement ensuite."
+        ],
+        "ability": [
+            "Assure un temps pluvieux le lendemain lorsqu’équipé."
+        ]
+    },
+    "129": {
+        "name": [
+            "Sourire d’une fille"
+        ],
+        "subtitle": [
+            "\"Onii-chan, tu as bien tenu ta promesse !\""
+        ],
+        "description": [
+            "La petite sœur qui admirait toujours et s’inquiétait pour",
+            "son Onii-chan arbore enfin un sourire satisfait.",
+            "Pour Onii-chan, c’est assez pour continuer d’avancer."
+        ],
+        "ability": [
+            "Désir augmenté, toutes les stats augmentées."
+        ]
+    },
+    "130": {
+        "name": [
+            "Culotte d’Imouto"
+        ],
+        "subtitle": [
+            "\"Elle porte encore le parfum d’Imouto...\""
+        ],
+        "description": [
+            "Une culotte reçue d’Imouto à la suite d’un malentendu.",
+            "Jamais rendue, mais au fond, ça rend heureux."
+        ],
+        "ability": [
+            "Inspiré par Imouto. Quand les PV < 50%, régénération automatique."
+        ]
+    },
+    "147": {
+        "name": [
+            "Pansement"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "150": {
+        "name": [
+            "T-shirt Bonus"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un habit personnalisé par le chevalier,",
+            "censé promouvoir le jeu.",
+            "Mais j’ai pas vraiment envie de le porter."
+        ],
+        "ability": []
+    },
+    "152": {
+        "name": [
+            "Pyjama d’Imouto"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un pyjama camisole habituellement porté par Imouto,",
+            "décoré de ses nœuds préférés.",
+            "Maintenant que j’y pense… pourquoi c’est dans mes mains ?"
+        ],
+        "ability": []
+    },
+    "153": {
+        "name": [
+            "Short d’Imouto"
+        ],
+        "subtitle": "",
+        "description": [
+            "Un short doux et moelleux qu’Imouto porte d’habitude,",
+            "décoré de ses nœuds préférés.",
+            "Maintenant que j’y pense… pourquoi c’est dans mes mains ?"
+        ],
+        "ability": []
+    },
+    "154": {
+        "name": [
+            "Culotte bleu-blanc"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "155": {
+        "name": [
+            "Culotte rose-blanc"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "156": {
+        "name": [
+            "Culotte blanche"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "157": {
+        "name": [
+            "Pansement"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "159": {
+        "name": [
+            "Pas de culotte…"
+        ],
+        "subtitle": "",
+        "description": [
+            ""
+        ],
+        "ability": []
+    },
+    "300": {
+        "name": [
+            "Catalyseur Amatoria"
+        ],
+        "subtitle": [
+            "\"Donne-moi ton amour— ! Sinon, mourons ensemble~~~ !\""
+        ],
+        "description": [
+            "Un artefact interdit forgé par un certain archidémon yandere.",
+            "Il force quiconque le touche à tomber amoureux du porteur,",
+            "ignorant leur volonté."
+        ],
+        "ability": [
+            "Augmente grandement les stats gagnées en caressant Imouto."
+        ]
+    }
+}

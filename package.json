@@ -1,0 +1,15 @@
+{
+    "name": "rmmz-game",
+    "main": "index.html",
+    "chromium-args": "--ignore-gpu-blacklist --enable-gpu-rasterization --force-high-performance-gpu",
+    "window": {
+        "title": "存在感薄い妹との簡単生活",
+        "width": 816,
+        "height": 624,
+        "position": "center",
+        "icon": "icon/icon.png"
+    },
+    "dependencies": {
+        "discord-rpc": "^4.0.1"
+    }
+}

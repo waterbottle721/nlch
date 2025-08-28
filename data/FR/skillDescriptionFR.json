@@ -1,0 +1,167 @@
+{
+    "skillToggle": [
+        "Activé",
+        "Inactif"
+    ],
+    "1": {
+        "name": [
+            "Sac de rangement magique"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Un outil magique portable qui vous permet de transporter ",
+            "beaucoup plus d'objets que d'habitude. Cependant, ",
+            "même les outils magiques ont leurs limites de stockage."
+        ],
+        "ability": [
+            "Capacité de l'arme : ${QJ.MPMZ.tl.ex_playerCheckInventory('weapon')}",
+            "Capacité de l'équipement : ${QJ.MPMZ.tl.ex_playerCheckInventory('gear')}"
+        ]
+    },
+    "2": {
+        "name": [
+            "Senpo"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Un pas rapide sur le sol couvre une courte distance,",
+            "vous permettant d'esquiver certaines attaques. Ce n'est qu'une technique d'accélération au départ,",
+            "mais l'utilisateur insiste pour lui donner un nom stylé."
+        ],
+        "ability": [
+            "Maintenez la barre d'espace pour activer"
+        ]
+    },
+    "3": {
+        "name": [
+            "Senpo Tachi"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Une technique de dégainage d'épée apprise du jeune maître d'épée.",
+            "En combinant avec Senpo, vous lancez une frappe boostée en vitesse, ",
+            "suffisante pour repousser les ennemis si le timing est bon."
+        ],
+        "ability": [
+            "Clic gauche pendant Senpo : Tranche, dégâts selon la vitesse",
+            "Maintenez clic droit pendant Senpo : Charge, effets selon l'élan"
+        ],
+        "mobileAbility": [
+            "Touchez le bouton de compétence pour trancher, dégâts selon la vitesse de déplacement",
+            "Maintenez le bouton pour charger, effet selon l'élan"
+        ]
+    },
+    "4": {
+        "name": [
+            "Coup de tourbillon"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Tournez en balançant votre arme pour enchaîner les attaques.",
+            "La vitesse d'attaque augmente au fil du temps. Pour les moins à l'aise avec l'épée,",
+            "ce move est simple à apprendre et très efficace."
+        ],
+        "ability": [
+            "Maintenez clic droit pour activer la compétence",
+            "Annulez pendant la rotation pour lancer votre arme"
+        ],
+        "mobileAbility": [
+            "Maintenez le bouton de compétence pour activer",
+            "Annulez pendant la rotation pour lancer votre arme"
+        ]
+    },
+    "7": {
+        "name": [
+            "Sens du danger"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Souvent appelé « œil de l'esprit », mais en vrai,",
+            "c'est un sens affiné à force d'avoir échappé à la mort.",
+            "En fait, c'est plus un réflexe de traumatisé qu'une vraie compétence…"
+        ],
+        "ability": [
+            "Passez la souris sur la cible pour afficher les infos détaillées"
+        ],
+        "mobileAbility": [
+            "Touchez la cible pour afficher les infos détaillées"
+        ]
+    },
+    "10": {
+        "name": [
+            "Dissimulation du souffle"
+        ],
+        "subtitle": [
+            "vrai"
+        ],
+        "description": [
+            "Une technique ninja. Je l'ai apprise à l'arrache, mais...",
+            "bizarrement, j'ai pigé le truc assez vite."
+        ],
+        "ability": [
+            "Appuyez sur Maj en jeu pour passer furtif",
+            "Réduit la portée de détection des monstres de \\c[17]${1+$gameParty.leader().skillMasteryLevel(10)}\\c[108] case(s)",
+            "Réduit la montée d'alerte d'Imouto en espionnant de \\c[17]${15+15*$gameParty.leader().skillMasteryLevel(10)}%\\c[0]"
+        ]
+    },
+    "11": {
+        "name": [
+            "Coup de poignard dans le dos"
+        ],
+        "subtitle": [
+            "vrai"
+        ],
+        "description": [
+            "Technique ninja, activable en mode furtif.",
+            "Frappez un ennemi sans défense par derrière pour infliger de gros dégâts !"
+        ],
+        "ability": [
+            "Maîtrise de la compétence : \\c[6]${$gameActors.actor(1).skillMasteryUses(11)}\\c[0]",
+            "Bonus de dégâts d'assassinat : \\c[17]${Math.round(200 + (2333 - 200) * Math.pow($gameActors.actor(1).skillMasteryLevel(11) / 9, 1.8))}%\\c[0]"
+        ]
+    },
+    "18": {
+        "name": [
+            "Bris d'arme"
+        ],
+        "subtitle": [
+            ""
+        ],
+        "description": [
+            "Toutes les armes ont une durabilité limitée, ",
+            "et vu que l'utilisateur n'est pas très précis,",
+            "il y a un risque de les casser. Mais si ça arrive —",
+            "le dernier coup sera un critique surpuissant !"
+        ],
+        "ability": [
+            "Dégâts du dernier coup boostés : \\c[6]${200+(100*$gameActors.actor(1).skillMasteryLevel(48))}%\\c[0]"
+        ]
+    },
+    "26": {
+        "name": [
+            "Entraînement à l'escrime"
+        ],
+        "subtitle": [
+            "vrai"
+        ],
+        "description": [
+            "J'ai demandé à une fille maître d'épée comment devenir plus fort.",
+            "Tout ce qu'elle a dit c'est : « Balance ton épée 1 000 fois par jour ! »",
+            "—Vraiment ? Bon, on va tenter…"
+        ],
+        "ability": [
+            "Frappes d'entraînement effectuées : \\{\\c[6]${$gameActors.actor(1).skillMasteryUses(26)}\\c[0]",
+            "Les dégâts de base des armes de mêlée sont augmentés de \\c[6]${Math.ceil(1.8**$gameActors.actor(1).skillMasteryLevel(26))}%"
+        ]
+    }
+}

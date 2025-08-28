@@ -1,0 +1,796 @@
+{
+  "3": {
+    "0": [
+      "Я собирался сдержаться, но в итоге ",
+      "не смог устоять. Не успел я все обдумать, ",
+      "как уже был в ванной."
+    ],
+    "1": [
+      "Хотя это знакомое место, ",
+      "прокрадываться сюда вот так ",
+      "делает всё волнующим и новым…"
+    ],
+    "2": [
+      "Я пробрался, шаг за шагом…!",
+      "Хорошо, проникновение прошло успешно…!"
+    ],
+    "3": [
+      "Осталось совсем немного времени, прежде чем Сестра выйдет… ",
+      "Может, просто уйти сейчас?"
+    ],
+    "4": [
+      "Уйти",
+      "Передумать"
+    ],
+    "5": [
+      "На сегодня хватит — если Сестра ",
+      "поймает меня, будет плохо."
+    ],
+    "6": [
+      "Да, Сестра скоро выйдет——"
+    ],
+    "7": [
+      "Может, задержусь ещё немного…"
+    ],
+    "8": [
+      "Я уже в ванной.",
+      "Надо вести себя тихо, чтобы Сестра не заметила…"
+    ],
+    "9": [
+      "Танцевать!",
+      "Медитировать",
+      "Продолжать наблюдать"
+    ],
+    "10": [
+      "Хм… нужно быть особенно осторожным,",
+      "не хочу вызывать подозрения у Сестры…"
+    ],
+    "11": [
+      "Да… нужно успокоиться.",
+      "Время помедитировать—  \\w[30]"
+    ],
+    "12": [
+      "В мире медитации я один.",
+      "Она всегда приносит умиротворение…"
+    ],
+    "13": [
+      "……………………",
+      "……………………"
+    ],
+    "14": [
+      "Ого, если сконцентрироваться,",
+      "даже звук душа из ванной ",
+      "кристально слышен. Я даже могу прекрасно",
+      "слышать голос Сестры—"
+    ],
+    "15": [
+      "Это возбудило меня еще больше…"
+    ],
+    "16": [
+      "Напряжение зашкаливает… ",
+      "Надо срочно отвлечься.",
+      "Ладно — \\w[60]\\{время танцевать!"
+    ],
+    "17": [
+      "\\{Здесь, в этой ванной!",
+      "В этом тесном и опасном месте!",
+      "Двигаюсь всем телом!",
+      "Обостряю ниндзя-чувства и равновесие!"
+    ],
+    "18": [
+      "\\{Здесь, в этой ванной!",
+      "В этом тесном и опасном месте!",
+      "Позволь телу двигаться свободно!"
+    ],
+    "19": [
+      "\\{...Ха!\\w[60] Ха!  \\w[60]"
+    ],
+    "20": [
+      "Дыхание, пульс, движение — всё в идеальном ритме.",
+      "Это уже не тренировка. Это искусство.",
+      "Только истинный ниндзя может выступать на такой ",
+      "опасной сцене!"
+    ],
+    "21": [
+      "—Сестра никогда не узнает.",
+      "Что за её спиной однажды танцевала тень, ",
+      "что потом исчезла бесследно."
+    ],
+    "22": [
+      "Мои шаги отзывались эхом и тут же исчезали.",
+      "Это не просто танец…",
+      "Это ритуал — посвящение пути скрытности."
+    ],
+    "23": [
+      "…Сестра до сих пор ничего не заметила.",
+      "Теперь я могу приходить и уходить из дома без звука."
+    ],
+    "24": [
+      "Я — тень! Я — ветер! Я — \\w[60]",
+      "…Нет, я просто идиот, танцующий в ванной…"
+    ],
+    "25": [
+      "…Если подумать, ",
+      "я, наверное, слишком увлёкся?"
+    ],
+    "26": [
+      "…Кажется, мои навыки скрытности ",
+      "немного улучшились."
+    ],
+    "27": [
+      "…Ай! Подскользнулся — чуть не врезался ",
+      "в стиральную машину…!"
+    ],
+    "28": [
+      "Фух—это чувство, будто сердце выскочит…",
+      "странное, но приятное чувство завершённости.",
+      "Даже немного захватывает?"
+    ]
+  },
+  "11": {
+    "0": [
+      "После умывания ",
+      "Сестра выглядела намного бодрее.",
+      "Теперь мы стоим рядом, ",
+      "чистим зубы перед зеркалом."
+    ],
+    "1": [
+      "Делить с ней утреннюю рутину — редкость,",
+      "и на мгновение это заставило меня почувствовать себя неловко.",
+      "Ну… пожалуй, стоит просто поболтать—"
+    ],
+    "2": [
+      "\"Шо буим кусть на завтак...\""
+    ],
+    "3": [
+      "\\nl< >\"Ни... думала… ещ-о...\"  \\w[330]\\^"
+    ],
+    "4": [
+      "\"чисти в бок... так чище буит...\""
+    ],
+    "5": [
+      "\\nl< >\"Б-аа-ик… ты... сам—!\"    \\w[330]\\^"
+    ],
+    "6": [
+      "Хм… я не понимаю ни слова.",
+      "Когда рот полон пасты — говорить тяжело."
+    ],
+    "7": [
+      "Мы закончили чистить зубы, болтая ",
+      "на языках, которые никто из нас не понимал."
+    ]
+  },
+  "13": {
+    "0": [
+      "\\nl< >\"...Another new prank, huh?\""
+    ],
+    "1": [
+      "Even though my Imouto still put up a strong front,",
+      "she just grumbled a bit instead of kicking me out like before."
+    ],
+    "2": [
+      "I get it—she's just shy.",
+      "All she needs is a little extra push ",
+      "at a moment like this!"
+    ],
+    "3": [
+      "\"Actually, ",
+      "I think I got cursed by an archdemon in the forest again.\""
+    ],
+    "4": [
+      "Right in front of my Imouto, ",
+      "I yanked my pants down in one motion,",
+      "whipping out my rock-hard, throbbing cock."
+    ],
+    "5": [
+      "\\nl< >\"Eh?! Onii-chan...!",
+      "Why are you stripping here...?!\""
+    ],
+    "6": [
+      "She looked flustered, wanting to cover her eyes,",
+      "but couldn't spare her hands since ",
+      "she was busy hiding her chest."
+    ],
+    "7": [
+      "\"That damn demon cursed me, ",
+      "turned my cock into a ticking time bomb.",
+      "If we don't get it out fast, the whole house might blow up!\""
+    ],
+    "8": [
+      "\\nl< >\"...S-So what do we do?\""
+    ],
+    "9": [
+      "\"Just use your hand. ",
+      "If you keep stroking it, it'll come out...\""
+    ],
+    "10": [
+      "\\nl< >\"Then why can't you use your own hand, Onii-chan?\""
+    ],
+    "11": [
+      "Her sudden comeback left me speechless."
+    ],
+    "12": [
+      "Maybe tricking her with lame lies one too many times",
+      "has made her start to wise up...?!"
+    ],
+    "13": [
+      "\"It'd feel less awkward if    \\}",
+      "my cute Imouto's hand was doing it.\""
+    ],
+    "14": [
+      "My voice trailed off, getting smaller and smaller."
+    ],
+    "15": [
+      "\\nl< >\"That sounds way too suspicious... Onii-chan, ",
+      "are you trying to mess with me again?\""
+    ],
+    "16": [
+      "Her suspicion was growing—if I didn't do something,",
+      "she'd definitely kick me out next..."
+    ],
+    "17": [
+      "\\nl< >\"Wait—?! Onii-chan, that's...!\""
+    ],
+    "18": [
+      "\"While you're hesitating, ",
+      "your Onii-chan's been suffering with this curse, you know.",
+      "Would you really just stand by and watch me suffer?\""
+    ],
+    "19": [
+      "I put on my best innocent, pitiful face as I leaned in close,",
+      "then pressed my already-aching cock right up to her face,",
+      "rubbing it against her nonstop."
+    ],
+    "20": [
+      "\\nl< >\"But... Onii-chan, you don't look like you're suffering at all...",
+      "And stop pressing weird stuff against my face…!\""
+    ],
+    "21": [
+      "\"Look~ even my cock's whining it's about to explode, see?\""
+    ],
+    "22": [
+      "\\nl< >\"Mm... mmmph...\""
+    ],
+    "23": [
+      "\"If it blows, our cozy home will be gone forever, y'know.\""
+    ],
+    "24": [
+      "\\nl< >\"...Jeez, Onii-chan, you're always...",
+      "lying through your teeth with that serious face...\""
+    ],
+    "25": [
+      "Her whole face flushed, even her ears tinged red,",
+      "and she wasn't even fighting back—just one last push...",
+      "Just one more step and that shell of shyness would crack for good!"
+    ],
+    "26": [
+      "Imouto Coupon",
+      "Make a Promise",
+      "Bribe With Cash"
+    ],
+    "27": [
+      "\\nl< >\"...Fine, I get it...",
+      "Just this once, I'll help you out...\""
+    ],
+    "28": [
+      "Guess the bribe worked,",
+      "her answer didn't have a hint of resistance anymore."
+    ],
+    "29": [
+      "\\nl< >\"...Is this good enough?\""
+    ],
+    "30": [
+      "She gently wrapped her small hand around my cock,",
+      "clearly clueless about this kind of thing."
+    ],
+    "31": [
+      "Just her soft, warm palm gripping me was enough ",
+      "to make me throb with excitement."
+    ],
+    "32": [
+      "\"Just holding it won't do—",
+      "you gotta move your hand up and down.\""
+    ],
+    "33": [
+      "Seeing her confusion, I had to grab her hand and show her,",
+      "moving it up and down as a demo."
+    ],
+    "34": [
+      "\\nl< >\"............??\""
+    ],
+    "35": [
+      "\\nl< >\"L-Like this?\""
+    ],
+    "36": [
+      "She started jerking me slowly, her movements clumsy,",
+      "but feeling her warmth this close had me about to lose it."
+    ],
+    "37": [
+      "\\nl< >\"...How long do I have to do this?\""
+    ],
+    "38": [
+      "\"Don't rush... It's almost there—\""
+    ],
+    "39": [
+      "She seemed to get the hang of it and picked up speed,",
+      "the sudden rush of pleasure sent me over ",
+      "the edge before I could warn her—"
+    ],
+    "40": [
+      "\\nl< >\"...Eh?   \\{",
+      "Nnngyaaaaaaa—\""
+    ],
+    "41": [
+      "Panicked by the sudden huge load, ",
+      "she instinctively tried to block it with her hand,",
+      "trying to keep the cum from spurting everywhere."
+    ],
+    "42": [
+      "\"It's fine, really, this stuff isn't dangerous—",
+      "\\w[20]\\^"
+    ],
+    "43": [
+      "\\nl< >\"—Onii-chan's cock actually exploded?!",
+      "And my eyes...?! It's so hot and sticky ahhhh...!!\""
+    ],
+    "44": [
+      "\"Ooooohhhhhhhhhh—?!\""
+    ],
+    "45": [
+      "Freaked out, she squeezed down even harder, ",
+      "the pain twisting my dick had me",
+      "screaming right along with her."
+    ],
+    "46": [
+      "\"Nnnngyaaaaaa—\"",
+      "\"Ooooohhhhhhhhhh—\""
+    ],
+    "47": [
+      "\\nl< >\"Ugh, I'm all sticky now...",
+      "It's all your fault, Onii-chan, ",
+      "you never told me this would happen...\""
+    ],
+    "48": [
+      "\"Ah... ahhh... you're not wrong about that...\""
+    ],
+    "49": [
+      "Barely able to reply, my mind blank,",
+      "even though she made me feel amazing just a moment ago,",
+      "that little accident nearly scarred me for life..."
+    ],
+    "50": [
+      "\\nl< >\"Alright! If we're done, get out already!",
+      "I need to shower!!\""
+    ],
+    "51": [
+      "Kinda wanted to... take a bath together... though..."
+    ],
+    "52": [
+      "Pretty sure if we showered together now,",
+      "things would get even crazier, ",
+      "but she already kicked me out of the washroom."
+    ]
+  },
+  "15": {
+    "0": [
+      "А, кстати… среди всего бреда, ",
+      "который рассказывала та девушка-ниндзя, ",
+      "была штука под названием ",
+      "«структурный принцип ниндзя-двери» — звучало интересно.",
+      "Может, стоит переделать дверь в ванную с его помощью—"
+    ],
+    "1": [
+      "Типа, если я вырежу крошечную смотровую щель ",
+      "под правильным углом, которую вижу только я —",
+      "главное, аккуратно всё сделать, не повредить ",
+      "звукоизоляцию и гидроизоляцию… тогда можно—",
+      "\\{ Хе-хе-хе-хе~~~~~"
+    ],
+    "2": [
+      "\\{Кхм!\\}\\w[45] Я это делаю вовсе не ради чего-то странного.",
+      "Просто на случай, если Сестра вдруг ",
+      "потеряет сознание в ванне — надо заметить сразу.",
+      "Это исключительно из соображений безопасности! Да, именно так!"
+    ],
+    "3": [
+      "\\{Ну что ж!",
+      "Пора поработать, пока есть возможность!"
+    ],
+    "4": [
+      "Фух… на сегодня хватит.",
+      "Если задержусь, Сестра может что-то заподозрить.",
+      "Осталось всего 2–3 раза поработать, ",
+      "и всё будет готово~~!"
+    ],
+    "5": [
+      "Вчера модификация двери прошла отлично.",
+      "Сегодня нужно продвинуться дальше!"
+    ],
+    "6": [
+      "Фух…! Это было близко.",
+      "Я чуть не просверлил боковую стену.",
+      "Хорошо, что Сестра не постучала…"
+    ],
+    "7": [
+      "На сегодня хватит. Если буду работать слишком долго, ",
+      "она может что-то заподозрить.",
+      "Ещё один заход по модификации, и, ",
+      "всё будет готово~~!"
+    ],
+    "8": [
+      "Ладно… финальный рывок.",
+      "Основа готова — осталось сточить последний слой ",
+      "и добавить полупрозрачную ",
+      "плёнку, чтобы Сестра ничего не заметила."
+    ],
+    "9": [
+      "…Готово! Угол обзора идеален,",
+      "и он полностью скрыт!",
+      "Я могу наблюдать за всей ванной из этой точки!",
+      "Похоже, можно начинать уже завтра~!"
+    ],
+    "10": [
+      "Конечно, я всё это делаю исключительно ",
+      "из заботы о здоровье Сестры!",
+      "Никаких странных намерений!"
+    ],
+    "11": [
+      "Хорошо вспотел — пора в душ!"
+    ],
+    "12": [
+      "Тон Тон Тон Тон Тон Тон Тон~~!"
+    ]
+  },
+  "17": {
+    "0": [
+      "Сестра почти закончила принимать ванну...",
+      "Лучше уйти быстро."
+    ],
+    "1": [
+      "Я больше не вижу Сестру через дверь...",
+      "Похоже, она нежится в ванне."
+    ],
+    "2": [
+      "Я вижу Сестру сквозь дверь,",
+      "Похоже, она всё ещё моется..."
+    ],
+    "3": [
+      "Сестра ещё не заметила, что я стою перед ",
+      "дверью.",
+      "Что мне сделать?"
+    ],
+    "4": [
+      "Ворваться!",
+      "Подглядеть",
+      "Уйти"
+    ],
+    "5": [
+      "Ну что ж...только одним глазком..."
+    ],
+    "6": [
+      "Силуэт Сестры чётко виден сквозь",
+      "стекло, воображение тут же разыгрывается."
+    ],
+    "7": [
+      "Продолжить исследование",
+      "Пора возвращаться"
+    ],
+    "8": [
+      "Чисто, продолжаем исследование!"
+    ],
+    "9": [
+      "Сестра закончила принимать ванну,",
+      "мне лучше уйти побыстрее."
+    ],
+    "10": [
+      "...Ооо! Я вижу её!"
+    ],
+    "11": [
+      "Сестра аккуратно моет руки."
+    ],
+    "12": [
+      "Гель для душа?",
+      "Пены слишком много,",
+      "трудно разглядеть детали…"
+    ],
+    "13": [
+      "Сестра всё ещё бережно моет свою грудь",
+      "Выглядит так непристойно…"
+    ],
+    "14": [
+      "...Всё ещё хочешь подглядывать?"
+    ],
+    "15": [
+      "Продолжить подглядывать",
+      "Использовать дверь ниндзя",
+      "Забыть об этом"
+    ],
+    "16": [
+      "...Сестра начинает чувствовать моё присутствие.",
+      "Лучше прекратить подглядывать."
+    ],
+    "17": [
+      "Сестра залезла в ванну.",
+      "Она весело напевает мелодию."
+    ],
+    "18": [
+      "...Пожалуй, пора.",
+      "Сестра почти закончила — мне лучше уйти."
+    ],
+    "19": [
+      "Сейчас идеальный момент снова использовать",
+      "дверь ниндзя и насладиться этим ещё раз…!"
+    ],
+    "20": [
+      "—Разве я ещё не пользуюсь ею?"
+    ],
+    "21": [
+      "Сестра всё ещё бережно моет свою грудь",
+      "Выглядит так непристойно…"
+    ]
+  },
+  "23": {
+    "0": [
+      "Sneaking over quietly…………  \\w[30]",
+      "If I’m gonna peep, I gotta open the door carefully ",
+      "so Imouto doesn’t notice—"
+    ],
+    "1": [
+      "Oh oh oh—! I can see her!",
+      "Looks like Imouto’s about to take off her panties.",
+      "I wonder if I can see her pussy from this angle!?"
+    ],
+    "2": [
+      "Oh oh oh—! I can see her!",
+      "Looks like Imouto’s about to take her clothes off.",
+      "It’s not often I see her with just her panties on… ",
+      "can I catch the moment she takes them off!?"
+    ],
+    "3": [
+      "Oh oh oh—! I can see her!",
+      "Looks like Imouto’s about to take her clothes off.",
+      "Her lower half is already completely bare… ",
+      "I wish I could get a closer look…"
+    ],
+    "4": [
+      "Crap, pushed the door too far…!"
+    ],
+    "5": [
+      "…That was a nice view~        \\w[30]",
+      "I should probably leave for now."
+    ],
+    "6": [
+      "What should I do next? ",
+      "sneak further into the washroom?"
+    ],
+    "7": [
+      "Sneaking In",
+      "Go Back"
+    ],
+    "8": [
+      "If I keep going, ",
+      "I might find out something else…!"
+    ],
+    "9": [
+      "That’s enough for today. ",
+      "It’d be bad if Imouto caught me."
+    ],
+    "10": [
+      "…Imouto noticed I was peeping!",
+      "I got kicked out right away."
+    ]
+  },
+  "25": {
+    "0": [
+      "\\nl< >\"O-Onii-chan!? Why are you in here?\""
+    ],
+    "1": [
+      "\\nl< >\"…Is that you behind the door, Onii-chan?\""
+    ],
+    "2": [
+      "Guh…!",
+      "So I’ve been found out after all."
+    ],
+    "3": [
+      "\\nl< >\"I knew it was you, Onii-chan. ",
+      "What are you sneaking around for?\""
+    ],
+    "4": [
+      "\\nl< >\"…Onii-chan?    \\w[30]",
+      "What are you doing sneaking around behind the door?\""
+    ],
+    "5": [
+      "I’ve already snuck in…",
+      "There’s no turning back now…!"
+    ],
+    "6": [
+      "I’ve been caught peeping…",
+      "How should I explain this to Imouto…"
+    ],
+    "7": [
+      "Health Checkup",
+      "Let Me See!",
+      "Make An Excuse",
+      "Last Resort",
+      "Wanna Lewd!"
+    ],
+    "8": [
+      "Ahhh…! Looks like I’ve got",
+      "no choice but to use the last resort!"
+    ],
+    "9": [
+      "\"LET'S HOTFOOT IT OUTTA HERE!!!\""
+    ],
+    "10": [
+      "I quickly ran away from the scene.      \\w[30]",
+      "Of course, even after that, ",
+      "I still ended up getting scolded by Imouto."
+    ],
+    "11": [
+      "\\{",
+      "……Am I doing it?!",
+      "Now?! right here?!"
+    ],
+    "12": [
+      "\\nl< >\"Onii-chan!? Are you peeking again…!?\""
+    ],
+    "13": [
+      "…Looks like Imouto caught me peeking!",
+      "But am I just imagining things?",
+      "It kinda seemed like she was even moving ",
+      "her pussy out of the way for me to see——"
+    ],
+    "14": [
+      "\"Calm down, Dear Imouto.",
+      "Onii-chan definitely isn’t here to do anything bad.\""
+    ],
+    "15": [
+      "\\{\"I just wanted to watch over",
+      "my adorable little sister from the shadows！\""
+    ],
+    "16": [
+      "\"That’s right, it’s just a health check！\""
+    ],
+    "17": [
+      "\\nl< >\"I’ve heard that excuse before！\""
+    ],
+    "18": [
+      "\"No no! ",
+      "This time is completely different from last time！\""
+    ],
+    "19": [
+      "\\nl< >\"Wha—what do you mean…",
+      "Why would Onii-chan even do something like that……\""
+    ],
+    "20": [
+      "\"This is extremely important!",
+      "If something were wrong with your body",
+      "and I didn’t notice as your brother……！\""
+    ],
+    "21": [
+      "\\nl< >\"Ughhh… So what does Onii-chan want to do, exactly？\""
+    ],
+    "22": [
+      "\"Let me see your breast first\"    \\w[40]\\^"
+    ],
+    "23": [
+      "Ah—crap. ",
+      "I accidentally said what I was really thinking..."
+    ],
+    "24": [
+      "\\nl< >\"…Does that really have anything to do with this?\""
+    ],
+    "25": [
+      "\\nl< >\"Fine, if Onii-chan really wants to see it…     \\w[120]",
+      "\\}You’re such a cheater…\\{\""
+    ],
+    "26": [
+      "\\nl< >\"There, happy now？\""
+    ],
+    "27": [
+      "\"Ah, y-yeah… Very beautiful.\""
+    ],
+    "28": [
+      "I didn’t think Imouto would actually show me her breast.",
+      "I was so shocked I barely even got a good look."
+    ],
+    "29": [
+      "\\nl< >\"Okay, that’s enough!",
+      "Onii-chan’s done with his health check, right?",
+      "I’m going to take a bath now, so get out already！\""
+    ],
+    "30": [
+      "\\nl< >\\{",
+      "\"No way! Onii-chan, you idiot！\""
+    ],
+    "31": [
+      "I got pushed out of the washroom by Imouto.      \\w[30]",
+      "…Will this excuse still work next time?"
+    ],
+    "32": [
+      "\"Actually, Imouto… Onii-chan has this disease",
+      "where he’ll die if he doesn’t see nudity……！\""
+    ],
+    "33": [
+      "It was just a random excuse I came up with,",
+      "but I still managed to make a convincingly pained expression."
+    ],
+    "34": [
+      "\\nl< >\"Eh!? Onii-chan has a disease like that!?\""
+    ],
+    "35": [
+      "\"I don’t even remember when I got it…",
+      "But when it flares up, my whole body starts to itch,",
+      "and the only cure is seeing someone naked！\""
+    ],
+    "36": [
+      "\\nl< >\"Wait, is that even a real disease?\""
+    ],
+    "37": [
+      "\"Ah… ahhh…!! The itching’s starting…！\""
+    ],
+    "38": [
+      "I purposely collapsed onto the floor,",
+      "trembling all over in an obviously fake way."
+    ],
+    "39": [
+      "\\nl< >\\{\"…………………………\""
+    ],
+    "40": [
+      "\\nl< >\"Fine, fine…",
+      "If you’re going that far, I’ll let you see…\""
+    ],
+    "41": [
+      "My sweet, innocent Imouto believed me right away,",
+      "her face turning adorably shy."
+    ],
+    "42": [
+      "\\nl< >\"There, satisfied now？\""
+    ],
+    "43": [
+      "She was just way too cute,",
+      "and I ended up staring so much ",
+      "I forgot to keep up the act."
+    ],
+    "44": [
+      "\\nl< >\"…So you’re not itchy anymore?\""
+    ],
+    "45": [
+      "\"Yup, I feel totally refreshed now.\""
+    ],
+    "46": [
+      "I quickly got up from the floor ",
+      "and gave her a very satisfied smile."
+    ],
+    "47": [
+      "\\nl< >\"Ughhh…! So you were just messing with me ",
+      "this whole time, weren’t you!?\""
+    ],
+    "48": [
+      "\\nl< >\"You’re such an idiot, Onii-chan! ",
+      "Get out already！\""
+    ],
+    "49": [
+      "Puffing out her cheeks in frustration, ",
+      "Imouto shoved me out of the washroom.",
+      "Hmm… guess I blew it at the end after all."
+    ],
+    "50": [
+      "\\nl< >\"Eh!? Onii-chan wants to see my…!?\""
+    ],
+    "51": [
+      "\\nl< >\"No way! Onii-chan, you’re such a dummy！\""
+    ],
+    "52": [
+      "\\nl< >\"Why would you even ask for something like that!? ",
+      "That’s so weird…！\""
+    ],
+    "53": [
+      "\\nl< >\\{\"Geez, Onii-chan, you big dummy!!!\""
+    ],
+    "54": [
+      "Imouto angrily kicked me out.",
+      "Maybe I really did go too far this time…"
+    ]
+  }
+}

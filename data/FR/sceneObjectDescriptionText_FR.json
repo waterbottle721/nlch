@@ -1,0 +1,104 @@
+{
+    "0": [
+        "✦Une tasse qu'Imouto aime, ",
+        "avec un motif de lapin un peu étrange.",
+        "Ça a l'air d'être un best-seller chez NLCH."
+    ],
+    "1": [
+        "✦La petite lanterne laissée par Père,",
+        "ça ressemble à un outil d'alchimie.",
+        "Elle est très résistante malgré son âge et",
+        "diffuse une lumière chaleureuse et réconfortante."
+    ],
+    "2": [
+        "✦Une veilleuse mignonne avec un éclairage doux,",
+        "parfaite pour s'allumer quand on se lève",
+        "pour aller aux toilettes la nuit."
+    ],
+    "3": [
+        "✦Une plante feuillue appelée « Ficus umbellata ».",
+        "Elle est en pleine forme, et on dirait qu'Imouto en prend",
+        "grand soin chaque jour."
+    ],
+    "4": [
+        "✦Une plante feuillue appelée « Pothos ».",
+        "Elle n'a pas l'air très en forme,",
+        "alors Imouto l'a mise près de la fenêtre.",
+        "Est-ce que je devrais lui dire que le pothos,",
+        "n'aime pas vraiment la lumière du soleil... ?"
+    ],
+    "5": [
+        "✦Quelques livres qu'Imouto a choisis",
+        "dans le bureau du père.",
+        "C'est surtout des bouquins de philo,",
+        "et c'est complètement incompréhensible."
+    ],
+    "6": [
+        "✦J'ai ramassé une branche de bouleau séchée sur le",
+        "chemin du retour — je trouvais que ça avait du style,",
+        "alors je l'ai montrée à Imouto.",
+        "Elle l'a mise discrètement dans un vase."
+    ],
+    "7": [
+        "✦Un croquis d'oiseau dessiné par Imouto,",
+        "apparemment basé sur les oiseaux qu'elle voit",
+        "par la fenêtre."
+    ],
+    "8": [
+        "✦Un vieux petit ventilateur avec un souffle tout faible.",
+        "Il faut vraiment se coller tout près",
+        "pour sentir la brise fraîche."
+    ],
+    "9": [
+        "✦Un sèche-cheveux dernier cri avec un souffle d'air super puissant.",
+        "Si tu le pointes vers ton visage, tu as vraiment l'impression",
+        "que le vent pourrait t'arracher la peau."
+    ],
+    "10": [
+        "✦Une baignoire à température réglable,",
+        "mais la plage va de 99°C à -10°C...",
+        "C'est vraiment une bonne idée ?"
+    ],
+    "11": [
+        "✦Un shampoing parfumé aux fruits qu'Imouto adore.",
+        "Ça rend ses cheveux super soyeux,",
+        "mais ça part beaucoup trop vite.",
+        "Reste actuel : ${$gameSelfVariables.value([6, 8, 'shampoo'])}%"
+    ],
+    "12": [
+        "✦On dirait les sous-vêtements",
+        "qu'Imouto vient d'enlever...",
+        "Ils sont soigneusement pliés."
+    ],
+    "13": [
+        "✦Une console de jeu légendaire qui est devenue ultra rare.",
+        "En avoir une ferait de vous une légende parmi les gamers."
+    ],
+    "14": [
+        "✦Une poupée offerte à Imouto par son père",
+        "pour son anniversaire. Elle y tient beaucoup",
+        "et la garde toujours à ses côtés."
+    ],
+    "15": [
+        "\\fr\\fs[20]\\c[10]Cercle magique perdu",
+        "\\fs[22]\\i[16]???\\fr",
+        "✦Un espace venu d'un autre monde créé par",
+        "une carte magique héritée du père.",
+        "Totalement insensible au temps,",
+        "les objets stockés ici ne disparaissent jamais.",
+        "Ce cercle est aussi relié à l'entrée de la maison,",
+        "ce qui permet de rentrer facilement et en sécurité.",
+        "Impossible de savoir si c'est le père qui avait tout prévu,",
+        "en pensant que son enfant finirait forcément",
+        "par descendre un jour dans l'abîme..."
+    ],
+    "16": [
+        "\\fr\\fs[28]\\c[114]Grand Labyrinthe",
+        "\\fr\\fs[22]\\i[16]???",
+        "✦L'entrée du Labyrinthe des Ruines,",
+        "envahi par des monstres porteurs de l'aura de l'Abîme.",
+        "C'est dangereux, mais on peut y faire de sacrées trouvailles,",
+        "et on raconte que des secrets abyssaux sont cachés au fond.",
+        "Mais ce n'est qu'un des nombreux chemins qui mènent à l'Abîme."
+    ]
+}
